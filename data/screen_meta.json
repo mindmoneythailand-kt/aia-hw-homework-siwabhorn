@@ -1,0 +1,22 @@
+{
+  "fetched": "2026-11-01",
+  "source": "https://clinicaltrials.gov/api/v2/studies",
+  "window_primary_completion": [
+    "2026-11-01",
+    "2028-12-31"
+  ],
+  "status": "RECRUITING|ACTIVE_NOT_RECRUITING|ENROLLING_BY_INVITATION",
+  "counts": {
+    "PHASE3": {
+      "api_total": 1660,
+      "fetched": 1660
+    },
+    "PHASE2": {
+      "api_total": 2551,
+      "fetched": 2551
+    }
+  },
+  "unique_trials": 4056,
+  "candidate_rows": 5215,
+  "sponsors": 1460
+}

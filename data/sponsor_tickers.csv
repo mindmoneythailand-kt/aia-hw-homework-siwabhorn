@@ -1,0 +1,1461 @@
+﻿sponsor,n_drugs,n_drugs_phase3,n_trial_links,markets_hint,ticker,retrieved,sec_ticker,sec_cik,sec_title,match_quality,source
+AstraZeneca,145,69,258,CN|US|US+CN|other,ยังไม่ยืนยัน,2026-11-01,AZN,901832,ASTRAZENECA PLC,exact,https://www.sec.gov/files/company_tickers.json
+Hoffmann-La Roche,105,65,183,CN|US|US+CN|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Merck Sharp & Dohme LLC,104,51,179,CN|US|US+CN|other,ยังไม่ยืนยัน,2026-11-01,MRK,310158,"Merck & Co., Inc.",manual,https://www.sec.gov/files/company_tickers.json
+Pfizer,80,46,109,CN|US|US+CN,ยังไม่ยืนยัน,2026-11-01,PFE,78003,PFIZER INC,exact,https://www.sec.gov/files/company_tickers.json
+Sanofi,91,43,127,CN|US|US+CN|other,ยังไม่ยืนยัน,2026-11-01,SNY,1121404,Sanofi,exact,https://www.sec.gov/files/company_tickers.json
+Novartis Pharmaceuticals,111,42,148,CN|US|US+CN|other,ยังไม่ยืนยัน,2026-11-01,NVS,1114448,NOVARTIS AG,manual,https://www.sec.gov/files/company_tickers.json
+AbbVie,70,35,116,CN|US|US+CN,ยังไม่ยืนยัน,2026-11-01,ABBV,1551152,AbbVie Inc.,exact,https://www.sec.gov/files/company_tickers.json
+"Janssen Research & Development, LLC",69,35,103,US|US+CN,ยังไม่ยืนยัน,2026-11-01,JNJ,200406,JOHNSON & JOHNSON,manual,https://www.sec.gov/files/company_tickers.json
+"Qilu Pharmaceutical Co., Ltd.",41,27,52,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+GlaxoSmithKline,65,26,89,CN|US|US+CN|other,ยังไม่ยืนยัน,2026-11-01,GSK,1131399,GSK plc,manual,https://www.sec.gov/files/company_tickers.json
+Eli Lilly and Company,56,23,113,US|US+CN,ยังไม่ยืนยัน,2026-11-01,LLY,59478,ELI LILLY & Co,exact,https://www.sec.gov/files/company_tickers.json
+Takeda,28,20,40,CN|US|US+CN|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Bristol-Myers Squibb,49,19,71,US|US+CN,ยังไม่ยืนยัน,2026-11-01,BMY,14272,BRISTOL MYERS SQUIBB CO,exact,https://www.sec.gov/files/company_tickers.json
+Amgen,25,19,45,US|US+CN|other,ยังไม่ยืนยัน,2026-11-01,AMGN,318154,AMGEN INC,exact,https://www.sec.gov/files/company_tickers.json
+Gilead Sciences,41,17,59,US|US+CN,ยังไม่ยืนยัน,2026-11-01,GILD,882095,"GILEAD SCIENCES, INC.",exact,https://www.sec.gov/files/company_tickers.json
+"Sichuan Baili Pharmaceutical Co., Ltd.",32,15,95,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Celgene,25,14,35,US|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Boehringer Ingelheim,29,13,38,CN|US|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Genmab,28,13,45,US|US+CN|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Regeneron Pharmaceuticals,39,12,66,US,ยังไม่ยืนยัน,2026-11-01,REGN,872589,"REGENERON PHARMACEUTICALS, INC.",exact,https://www.sec.gov/files/company_tickers.json
+BeOne Medicines,23,12,41,US+CN,ยังไม่ยืนยัน,2026-11-01,ONC,1651308,BeOne Medicines Ltd.,exact,https://www.sec.gov/files/company_tickers.json
+Akeso,43,11,63,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Novo Nordisk A/S,15,11,36,US|US+CN,ยังไม่ยืนยัน,2026-11-01,NVO,353278,NOVO NORDISK A S,exact,https://www.sec.gov/files/company_tickers.json
+"Jiangsu HengRui Medicine Co., Ltd.",80,10,87,CN|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Suzhou Suncadia Biopharmaceuticals Co., Ltd.",48,10,56,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Incyte Corporation,21,10,28,US|US+CN|other,ยังไม่ยืนยัน,2026-11-01,INCY,879169,INCYTE CORP,exact,https://www.sec.gov/files/company_tickers.json
+Jazz Pharmaceuticals,15,10,20,US|US+CN,ยังไม่ยืนยัน,2026-11-01,JAZZ,1232524,Jazz Pharmaceuticals plc,exact,https://www.sec.gov/files/company_tickers.json
+Sinocelltech Ltd.,13,10,19,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Otsuka Pharmaceutical Development & Commercialization, Inc.",11,10,14,CN|US|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Chia Tai Tianqing Pharmaceutical Group Co., Ltd.",29,9,31,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Revolution Medicines, Inc.",22,9,30,US|US+CN,ยังไม่ยืนยัน,2026-11-01,RVMD,1628171,"Revolution Medicines, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"RemeGen Co., Ltd.",12,9,13,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Acerta Pharma BV,9,9,12,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Sanofi Pasteur, a Sanofi Company",19,8,19,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Innovent Biologics (Suzhou) Co. Ltd.,14,8,18,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Vertex Pharmaceuticals Incorporated,12,8,18,US|US+CN|other,ยังไม่ยืนยัน,2026-11-01,VRTX,875320,VERTEX PHARMACEUTICALS INC / MA,exact,https://www.sec.gov/files/company_tickers.json
+"Axsome Therapeutics, Inc.",8,8,15,US,ยังไม่ยืนยัน,2026-11-01,AXSM,1579428,"Axsome Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Praxis Precision Medicines,8,8,8,US,ยังไม่ยืนยัน,2026-11-01,PRAX,1689548,"Praxis Precision Medicines, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Seagen, a wholly owned subsidiary of Pfizer",8,8,10,US|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.",26,7,49,CN,ยังไม่ยืนยัน,2026-11-01,SKBBY,2125904,"Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd./ADR",partial,https://www.sec.gov/files/company_tickers.json
+Daiichi Sankyo,19,7,25,US|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Astellas Pharma Global Development, Inc.",17,7,21,CN|US|US+CN|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Juno Therapeutics, Inc., a Bristol-Myers Squibb Company",14,7,18,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Beijing InnoCare Pharma Tech Co., Ltd.",12,7,14,CN|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Taiho Oncology, Inc.",11,7,12,US|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Hutchmed,9,7,9,CN|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai Chia Tai Tianqing Pharmaceutical Technology Development Co., Ltd.",8,7,9,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD.",7,7,7,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Shanghai Henlius Biotech,24,6,33,CN|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Karyopharm Therapeutics Inc,23,6,27,US|US+CN,ยังไม่ยืนยัน,2026-11-01,KPTI,1503802,Karyopharm Therapeutics Inc.,exact,https://www.sec.gov/files/company_tickers.json
+"Merck Healthcare KGaA, Darmstadt, Germany, an affiliate of Merck KGaA, Darmstadt, Germany",10,6,10,US+CN|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Jiangsu vcare pharmaceutical technology co., LTD",8,6,10,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"The United Bio-Technology (Hengqin) Co., Ltd.",7,6,7,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Vanda Pharmaceuticals,7,6,8,US,ยังไม่ยืนยัน,2026-11-01,VNDA,1347178,Vanda Pharmaceuticals Inc.,exact,https://www.sec.gov/files/company_tickers.json
+Biogen,6,6,10,US|US+CN,ยังไม่ยืนยัน,2026-11-01,BIIB,875045,BIOGEN INC.,exact,https://www.sec.gov/files/company_tickers.json
+"Jiangsu Simcere Pharmaceutical Co., Ltd.",6,6,6,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Otsuka Pharmaceutical Co., Ltd.",6,6,10,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Seattle Project Corporation,6,6,6,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Ono Pharmaceutical Co., Ltd.",18,5,21,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd.",15,5,15,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Ascentage Pharma Group Inc.,11,5,14,CN|US+CN,ยังไม่ยืนยัน,2026-11-01,AAPG,2023311,ASCENTAGE PHARMA GROUP INTERNATIONAL,partial,https://www.sec.gov/files/company_tickers.json
+"Alexion Pharmaceuticals, Inc.",8,5,11,CN|US|US+CN|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Biocad,8,5,11,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Chiesi Farmaceutici S.p.A.,7,5,7,CN|US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+UCB Biopharma SRL,6,5,14,US|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Ultragenyx Pharmaceutical Inc,6,5,6,US|other,ยังไม่ยืนยัน,2026-11-01,RARE,1515673,Ultragenyx Pharmaceutical Inc.,exact,https://www.sec.gov/files/company_tickers.json
+Telix Pharmaceuticals (Innovations) Pty Limited,5,5,5,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Tolmar Inc.,5,5,5,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Fujian Shengdi Pharmaceutical Co., Ltd.",13,4,17,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Bayer,12,4,13,CN|US|US+CN|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"SK Bioscience Co., Ltd.",12,4,12,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Guangdong Hengrui Pharmaceutical Co., Ltd",10,4,18,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"AskGene Pharma, Inc.",8,4,8,CN|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"ImmunityBio, Inc.",8,4,9,US,ยังไม่ยืนยัน,2026-11-01,IBRX,1326110,"ImmunityBio, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Immunocore Ltd,8,4,8,US|other,ยังไม่ยืนยัน,2026-11-01,IMCR,1671927,Immunocore Holdings plc,exact,https://www.sec.gov/files/company_tickers.json
+Shanghai JMT-Bio Inc.,8,4,9,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Alkermes, Inc.",7,4,11,US,ยังไม่ยืนยัน,2026-11-01,ALKS,1520262,Alkermes plc.,exact,https://www.sec.gov/files/company_tickers.json
+Biohaven Therapeutics Ltd.,6,4,7,US,ยังไม่ยืนยัน,2026-11-01,BHVN,1935979,Biohaven Ltd.,partial,https://www.sec.gov/files/company_tickers.json
+Neurocrine Biosciences,6,4,10,US|other,ยังไม่ยืนยัน,2026-11-01,NBIX,914475,NEUROCRINE BIOSCIENCES INC,exact,https://www.sec.gov/files/company_tickers.json
+argenx,5,4,18,US|US+CN,ยังไม่ยืนยัน,2026-11-01,ARGX,1697862,ARGENX SE,exact,https://www.sec.gov/files/company_tickers.json
+"BrightGene Bio-Medical Technology Co., Ltd.",5,4,6,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Ferring Pharmaceuticals,5,4,6,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+LEO Pharma,5,4,6,US|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Amicus Therapeutics,4,4,6,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+AO GENERIUM,4,4,4,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+BriaCell Therapeutics Corporation,4,4,4,US,ยังไม่ยืนยัน,2026-11-01,BCTX,1610820,BriaCell Therapeutics Corp.,exact,https://www.sec.gov/files/company_tickers.json
+Exelixis,4,4,5,US|US+CN,ยังไม่ยืนยัน,2026-11-01,EXEL,939767,"EXELIXIS, INC.",exact,https://www.sec.gov/files/company_tickers.json
+Grifols Therapeutics LLC,4,4,4,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Han Xu, M.D., Ph.D., FAPCR, Sponsor-Investigator, IRB Chair",4,4,4,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Immutep S.A.S.,4,4,4,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Minerva Neurosciences,4,4,4,US,ยังไม่ยืนยัน,2026-11-01,NERV,1598646,"Minerva Neurosciences, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Octapharma,4,4,4,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai Shengdi Pharmaceutical Co., Ltd",4,4,4,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Staidson (Beijing) Biopharmaceuticals Co., Ltd",4,4,4,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shandong Suncadia Medicine Co., Ltd.",25,3,28,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"CSPC ZhongQi Pharmaceutical Technology Co., Ltd.",13,3,13,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Chia Tai Tianqing Pharmaceutical Group Nanjing Shunxin Pharmaceutical Co., Ltd.",12,3,13,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Eisai Inc.,11,3,12,US|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Arrowhead Pharmaceuticals,9,3,9,US|US+CN|other,ยังไม่ยืนยัน,2026-11-01,ARWR,879407,"ARROWHEAD PHARMACEUTICALS, INC.",exact,https://www.sec.gov/files/company_tickers.json
+"Boryung Pharmaceutical Co., Ltd",9,3,9,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Chipscreen Biosciences, Ltd.",9,3,9,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Haisco Pharmaceutical Group Co., Ltd.",9,3,9,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"InventisBio Co., Ltd",8,3,10,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Mirum Pharmaceuticals, Inc.",8,3,8,US|US+CN|other,ยังไม่ยืนยัน,2026-11-01,MIRM,1759425,"Mirum Pharmaceuticals, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Hangzhou Sumgen Biotech Co., Ltd.",7,3,7,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Allist Pharmaceuticals, Inc.",6,3,7,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+CSL Behring,6,3,6,US|US+CN|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Intra-Cellular Therapies, Inc.",6,3,11,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Ionis Pharmaceuticals, Inc.",6,3,9,US,ยังไม่ยืนยัน,2026-11-01,IONS,874015,IONIS PHARMACEUTICALS INC,exact,https://www.sec.gov/files/company_tickers.json
+Minghui Pharmaceutical (Hangzhou) Ltd,6,3,8,CN|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Sunshine Lake Pharma Co., Ltd.",6,3,6,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Tasly Pharmaceutical Group Co., Ltd",6,3,6,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Kite, A Gilead Company",5,3,7,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shandong New Time Pharmaceutical Co., LTD",5,3,5,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Vir Biotechnology, Inc.",5,3,10,US|other,ยังไม่ยืนยัน,2026-11-01,VIR,1706431,"Vir Biotechnology, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Biotheus Inc.,4,3,7,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+CanariaBio Inc.,4,3,8,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+NewAmsterdam Pharma,4,3,6,US|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai Zhimeng Biopharma, Inc.",4,3,6,CN|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Sunshine Guojian Pharmaceutical (Shanghai) Co., Ltd.",4,3,6,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+AB Science,3,3,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Actelion,3,3,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Amneal Pharmaceuticals, LLC",3,3,3,US,ยังไม่ยืนยัน,2026-11-01,AMRX,1723128,"Amneal Pharmaceuticals, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Ansun Biopharma, Inc.",3,3,3,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Ardelyx,3,3,3,US,ยังไม่ยืนยัน,2026-11-01,ARDX,1437402,"ARDELYX, INC.",exact,https://www.sec.gov/files/company_tickers.json
+Basilea Pharmaceutica,3,3,3,US|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Beijing Continent Pharmaceutical Co, Ltd.",3,3,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Beijing Suncadia Pharmaceuticals Co., Ltd",3,3,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+BioVersys SAS,3,3,3,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Celltrion,3,3,3,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Dompé Farmaceutici S.p.A,3,3,5,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Epizyme, Inc.",3,3,3,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"FutureGen Biopharmaceutical (Beijing) Co., Ltd",3,3,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Gan & Lee Pharmaceuticals.,3,3,4,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Harmony Biosciences Management, Inc.",3,3,3,US,ยังไม่ยืนยัน,2026-11-01,HRMY,1802665,"Harmony Biosciences Holdings, Inc.",partial,https://www.sec.gov/files/company_tickers.json
+Luye Pharma Group Ltd.,3,3,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Mabscale, LLC",3,3,3,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Oculis,3,3,3,US,ยังไม่ยืนยัน,2026-11-01,OCS,1953530,Oculis Holding AG,exact,https://www.sec.gov/files/company_tickers.json
+Servier Affaires Médicales,3,3,3,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Sinovac Biotech Co., Ltd",3,3,6,CN|other,ยังไม่ยืนยัน,2026-11-01,SVA,1084201,SINOVAC BIOTECH LTD,exact,https://www.sec.gov/files/company_tickers.json
+"Sun Pharmaceutical Industries, Inc.",3,3,4,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Taisho Pharmaceutical Co., Ltd.",3,3,4,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"TJ Biopharma Co., Ltd.",3,3,4,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Veradermics, Inc.",3,3,3,US,ยังไม่ยืนยัน,2026-11-01,MANE,1827635,"Veradermics, Inc",exact,https://www.sec.gov/files/company_tickers.json
+Verrica Pharmaceuticals Inc.,3,3,3,US,ยังไม่ยืนยัน,2026-11-01,VRCA,1660334,Verrica Pharmaceuticals Inc.,exact,https://www.sec.gov/files/company_tickers.json
+BioNTech SE,27,2,37,CN|US|US+CN|other,ยังไม่ยืนยัน,2026-11-01,BNTX,1776985,BioNTech SE,exact,https://www.sec.gov/files/company_tickers.json
+DualityBio Inc.,20,2,22,CN|US|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"MediLink Therapeutics (Suzhou) Co., Ltd.",14,2,23,CN|US|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Verastem, Inc.",12,2,17,US,ยังไม่ยืนยัน,2026-11-01,VSTM,1526119,"Verastem, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Mabwell (Shanghai) Bioscience Co., Ltd.",10,2,15,CN|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"TransThera Sciences (Nanjing), Inc.",10,2,10,CN|US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Alnylam Pharmaceuticals,9,2,11,US|other,ยังไม่ยืนยัน,2026-11-01,ALNY,1178670,"ALNYLAM PHARMACEUTICALS, INC.",exact,https://www.sec.gov/files/company_tickers.json
+Serum Institute of India Pvt. Ltd.,8,2,8,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+BeBetter Med Inc,7,2,7,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Changchun GeneScience Pharmaceutical Co., Ltd.",7,2,8,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"GeneQuantum Healthcare (Suzhou) Co., Ltd.",7,2,7,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Immuneering Corporation,7,2,7,US,ยังไม่ยืนยัน,2026-11-01,IMRX,1790340,Immuneering Corp,exact,https://www.sec.gov/files/company_tickers.json
+Ipsen,7,2,12,US|US+CN|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Johnson & Johnson Enterprise Innovation Inc.,6,2,6,US+CN,ยังไม่ยืนยัน,2026-11-01,JNJ,200406,JOHNSON & JOHNSON,partial,https://www.sec.gov/files/company_tickers.json
+Merus B.V.,6,2,7,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"ModernaTX, Inc.",6,2,6,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Ocugen,6,2,6,US,ยังไม่ยืนยัน,2026-11-01,OCGN,1372299,"Ocugen, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Philogen S.p.A.,6,2,6,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Vaxcyte, Inc.",6,2,7,US,ยังไม่ยืนยัน,2026-11-01,PCVX,1649094,"Vaxcyte, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Denali Therapeutics Inc.,5,2,6,US,ยังไม่ยืนยัน,2026-11-01,DNLI,1714899,Denali Therapeutics Inc.,exact,https://www.sec.gov/files/company_tickers.json
+"E-nitiate Biopharmaceuticals (Hangzhou) Co., Ltd.",5,2,5,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Huahui Health,5,2,5,CN|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Ausper Biopharma Co., Ltd.",4,2,9,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+H. Lundbeck A/S,4,2,6,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Hanmi Pharmaceutical Company Limited,4,2,5,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+IDEAYA Biosciences,4,2,6,US,ยังไม่ยืนยัน,2026-11-01,IDYA,1676725,"IDEAYA Biosciences, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Shanghai Jiaolian Drug Research and Development Co., Ltd",4,2,6,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Alumis Inc,3,2,3,US,ยังไม่ยืนยัน,2026-11-01,ALMS,1847367,ALUMIS INC.,exact,https://www.sec.gov/files/company_tickers.json
+Ascendis Pharma A/S,3,2,4,US|other,ยังไม่ยืนยัน,2026-11-01,ASND,1612042,Ascendis Pharma A/S,exact,https://www.sec.gov/files/company_tickers.json
+"Beijing QL Biopharmaceutical Co.,Ltd",3,2,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Crinetics Pharmaceuticals Inc.,3,2,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+EyeBiotech Ltd.,3,2,5,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Galderma R&D,3,2,5,CN|US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Guangzhou Virotech Pharmaceutical Co., Ltd.",3,2,4,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Hangzhou Sciwind Biosciences Co., Ltd.",3,2,5,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Kardigan, Inc.",3,2,3,US,ยังไม่ยืนยัน,2026-11-01,KARD,2123613,"Kardigan, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Pharmacosmos A/S,3,2,4,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+United Therapeutics,3,2,3,US|US+CN,ยังไม่ยืนยัน,2026-11-01,UTHR,1082554,UNITED THERAPEUTICS Corp,exact,https://www.sec.gov/files/company_tickers.json
+"Advenchen Laboratories, LLC",2,2,2,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Adverum Biotechnologies, Inc.",2,2,4,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Anhui Zhifei Longcom Biologic Pharmacy Co., Ltd.",2,2,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Annexon, Inc.",2,2,2,US,ยังไม่ยืนยัน,2026-11-01,ANNX,1528115,"Annexon, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+AOP Orphan Pharmaceuticals AG,2,2,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Aragon Pharmaceuticals, Inc.",2,2,2,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Arcus Biosciences, Inc.",2,2,2,US,ยังไม่ยืนยัน,2026-11-01,RCUS,1724521,"Arcus Biosciences, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+AUG Therapeutics,2,2,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"AVEO Pharmaceuticals, Inc.",2,2,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Azafaros B.V.,2,2,4,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Bicara Therapeutics,2,2,4,US,ยังไม่ยืนยัน,2026-11-01,BCAX,2023658,Bicara Therapeutics Inc.,exact,https://www.sec.gov/files/company_tickers.json
+Brainfarma Industria Química e Farmacêutica S/A,2,2,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Chong Kun Dang Pharmaceutical,2,2,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Colgate Palmolive,2,2,2,US|other,ยังไม่ยืนยัน,2026-11-01,CL,21665,COLGATE PALMOLIVE CO,exact,https://www.sec.gov/files/company_tickers.json
+Compass Therapeutics,2,2,2,US,ยังไม่ยืนยัน,2026-11-01,CMPX,1738021,"Compass Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Erasca, Inc.",2,2,2,US,ยังไม่ยืนยัน,2026-11-01,ERAS,1761918,"Erasca, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+GC Cell Corporation,2,2,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Genelux Corporation,2,2,3,US,ยังไม่ยืนยัน,2026-11-01,GNLX,1231457,GENELUX Corp,exact,https://www.sec.gov/files/company_tickers.json
+Guerbet,2,2,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Han Xu, M.D., Ph.D., FAPCR, Medical Director, IRB Chair",2,2,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Han Xu, M.D., Ph.D., FAPCR, Medical Director,, IRB Chair",2,2,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Hanlim Pharm. Co., Ltd.",2,2,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"HTA Co., Ltd.",2,2,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Inmunotek S.L.,2,2,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+InnoPharmax Inc.,2,2,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Insmed Incorporated,2,2,3,US,ยังไม่ยืนยัน,2026-11-01,INSM,1104506,INSMED Inc,exact,https://www.sec.gov/files/company_tickers.json
+Intellia Therapeutics,2,2,2,US|other,ยังไม่ยืนยัน,2026-11-01,NTLA,1652130,"Intellia Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Kartos Therapeutics, Inc.",2,2,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Kedrion S.p.A.,2,2,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Kexing Biopharm Co., Ltd.",2,2,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Kissei Pharmaceutical Co., Ltd.",2,2,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Kodiak Sciences Inc,2,2,3,US,ยังไม่ยืนยัน,2026-11-01,KOD,1468748,Kodiak Sciences Inc.,exact,https://www.sec.gov/files/company_tickers.json
+Kyverna Therapeutics,2,2,4,US,ยังไม่ยืนยัน,2026-11-01,KYTX,1994702,"Kyverna Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+LB Pharmaceuticals Inc.,2,2,2,US,ยังไม่ยืนยัน,2026-11-01,LBRX,1691082,LB PHARMACEUTICALS INC,exact,https://www.sec.gov/files/company_tickers.json
+Lee's Pharmaceutical Limited,2,2,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Maia Biotechnology,2,2,4,US,ยังไม่ยืนยัน,2026-11-01,MAIA,1878313,"MAIA Biotechnology, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Materia Medica Holding,2,2,5,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+NaviFUS Corporation,2,2,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Novita Pharmaceuticals, Inc.",2,2,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Ocular Therapeutix, Inc.",2,2,2,US,ยังไม่ยืนยัน,2026-11-01,OCUL,1393434,"OCULAR THERAPEUTIX, INC",exact,https://www.sec.gov/files/company_tickers.json
+Ocus Innovation Ireland Limited,2,2,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Olema Pharmaceuticals, Inc.",2,2,2,US+CN,ยังไม่ยืนยัน,2026-11-01,OLMA,1750284,"Olema Pharmaceuticals, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Protara Therapeutics,2,2,3,US,ยังไม่ยืนยัน,2026-11-01,TARA,1359931,"Protara Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"QED Therapeutics, a BridgeBio company",2,2,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Quoin Pharmaceuticals,2,2,3,US,ยังไม่ยืนยัน,2026-11-01,QNRX,1671502,Quoin Pharmaceuticals Ltd.,exact,https://www.sec.gov/files/company_tickers.json
+"Rakuten Medical, Inc.",2,2,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Relay Therapeutics, Inc.",2,2,2,US+CN,ยังไม่ยืนยัน,2026-11-01,RLAY,1812364,"Relay Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+SANGMYUNG innovation,2,2,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai Bovax Biotechnology Co., Ltd.",2,2,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai Kechow Pharma, Inc.",2,2,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai Yizhong Pharmaceutical Co., Ltd.",2,2,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Sinotau Pharmaceutical Group,2,2,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Summit Therapeutics,2,2,3,US+CN,ยังไม่ยืนยัน,2026-11-01,SMMT,1599298,Summit Therapeutics Inc.,exact,https://www.sec.gov/files/company_tickers.json
+"Supergene, LLC",2,2,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Suven Life Sciences Limited,2,2,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+SystImmune Inc.,2,2,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"TuHURA Biosciences, Inc.",2,2,2,US,ยังไม่ยืนยัน,2026-11-01,HURA,1498382,"TuHURA Biosciences, Inc./NV",exact,https://www.sec.gov/files/company_tickers.json
+Viatris Innovation GmbH,2,2,3,US|US+CN,ยังไม่ยืนยัน,2026-11-01,VTRS,1792044,Viatris Inc,partial,https://www.sec.gov/files/company_tickers.json
+"VivaVision Biotech, Inc",2,2,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+vTv Therapeutics,2,2,2,US,ยังไม่ยืนยัน,2026-11-01,VTVT,1641489,vTv Therapeutics Inc.,exact,https://www.sec.gov/files/company_tickers.json
+Xenon Pharmaceuticals Inc.,2,2,5,US,ยังไม่ยืนยัน,2026-11-01,XENE,1582313,Xenon Pharmaceuticals Inc.,exact,https://www.sec.gov/files/company_tickers.json
+"Xiamen Amoytop Biotech Co., Ltd.",2,2,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Xynomic Pharmaceuticals, Inc.",2,2,3,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Zai Lab (Shanghai) Co., Ltd.",2,2,3,CN|US+CN,ยังไม่ยืนยัน,2026-11-01,ZLAB,1704292,Zai Lab Ltd,partial,https://www.sec.gov/files/company_tickers.json
+Zealand Pharma,2,2,2,US,ยังไม่ยืนยัน,2026-11-01,ZLDPF,2068427,Zealand Pharma A/S/ADR,partial,https://www.sec.gov/files/company_tickers.json
+"Zhejiang Hanmai Pharmaceutical Technology Co., Ltd.",2,2,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai Hengrui Pharmaceutical Co., Ltd.",21,1,25,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+LaNova Medicines Limited,16,1,18,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Genfleet Therapeutics (Shanghai) Inc.,12,1,16,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Dizal Pharmaceuticals,11,1,12,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Servier Bio-Innovation LLC,11,1,12,US|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Lepu Biopharma Co., Ltd.",10,1,11,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Suzhou Zelgen Biopharmaceuticals Co.,Ltd",10,1,20,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Chengdu Zenitar Biomedical Technology Co., Ltd",9,1,10,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Mirati Therapeutics Inc.,9,1,10,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Multitude Therapeutics Inc.,9,1,10,CN|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai Pharmaceuticals Holding Co., Ltd",9,1,10,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Bio-Thera Solutions,8,1,8,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Hudson Biotech,8,1,8,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"OncoC4, Inc.",8,1,8,US|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Shionogi,8,1,9,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Krystal Biotech, Inc.",7,1,8,US,ยังไม่ยืนยัน,2026-11-01,KRYS,1711279,"Krystal Biotech, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Sun Pharmaceutical Industries Limited,7,1,7,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+CanSino Biologics Inc.,6,1,6,CN|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"ADARx Pharmaceuticals, Inc.",5,1,7,CN|US+CN,ยังไม่ยืนยัน,2026-11-01,ADRX,1802369,"ADARx Pharmaceuticals, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Alcon Research,5,1,6,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Immatics US, Inc.",5,1,5,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"InxMed (Shanghai) Co., Ltd.",5,1,5,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Valenta Pharm JSC,5,1,6,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Almirall, S.A.",4,1,5,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Beijing Konruns Pharmaceutical Co., Ltd.",4,1,6,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Corbus Pharmaceuticals Inc.,4,1,5,US,ยังไม่ยืนยัน,2026-11-01,CRBP,1595097,"Corbus Pharmaceuticals Holdings, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"CSPC Zhongnuo Pharmaceutical (Shijiazhuang) Co., Ltd.",4,1,5,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Hansoh BioMedical R&D Company,4,1,4,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Rhythm Pharmaceuticals, Inc.",4,1,4,US,ยังไม่ยืนยัน,2026-11-01,RYTM,1649904,"RHYTHM PHARMACEUTICALS, INC.",exact,https://www.sec.gov/files/company_tickers.json
+"Sarepta Therapeutics, Inc.",4,1,4,US+CN|other,ยังไม่ยืนยัน,2026-11-01,SRPT,873303,"Sarepta Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+4D Molecular Therapeutics,3,1,4,US,ยังไม่ยืนยัน,2026-11-01,FDMT,1650648,"4D Molecular Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Biocity Biopharmaceutics Co., Ltd.",3,1,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Chengdu Suncadia Medicine Co., Ltd.",3,1,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Debiopharm International SA,3,1,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Deciphera Pharmaceuticals, LLC",3,1,4,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Disc Medicine, Inc",3,1,3,US,ยังไม่ยืนยัน,2026-11-01,IRON,1816736,"Disc Medicine, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+GeneCradle Inc,3,1,4,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Iovance Biotherapeutics, Inc.",3,1,4,US,ยังไม่ยืนยัน,2026-11-01,IOVA,1425205,"IOVANCE BIOTHERAPEUTICS, INC.",exact,https://www.sec.gov/files/company_tickers.json
+Pierre Fabre Medicament,3,1,3,US|US+CN|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Polaris Group,3,1,4,other,ยังไม่ยืนยัน,2026-11-01,PII,931015,Polaris Inc.,exact,https://www.sec.gov/files/company_tickers.json
+"Scholar Rock, Inc.",3,1,5,US,ยังไม่ยืนยัน,2026-11-01,SRRK,1727196,Scholar Rock Holding Corp,exact,https://www.sec.gov/files/company_tickers.json
+"Suzhou Abogen Biosciences Co., Ltd.",3,1,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Vaderis Therapeutics AG,3,1,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+ACADIA Pharmaceuticals Inc.,2,1,3,US,ยังไม่ยืนยัน,2026-11-01,ACAD,1070494,ACADIA PHARMACEUTICALS INC,exact,https://www.sec.gov/files/company_tickers.json
+"Adneuris Therapeutics, Inc.",2,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Apellis Pharmaceuticals, Inc.",2,1,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Aura Biosciences,2,1,2,US,ยังไม่ยืนยัน,2026-11-01,AURA,1501796,"Aura Biosciences, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Avidity Biosciences, Inc.",2,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Avistone Biotechnology Co., Ltd.",2,1,4,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Bausch Health Americas, Inc.",2,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Bavarian Nordic,2,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Beijing Mabworks Biotech Co., Ltd.",2,1,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Cartesian Therapeutics,2,1,3,US,ยังไม่ยืนยัน,2026-11-01,RNAC,1453687,"Cartesian Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Centessa Pharmaceuticals (UK) Limited,2,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Cidara Therapeutics Inc., a subsidiary of Merck & Co., Inc. (Rahway, New Jersey USA)",2,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Day One Biopharmaceuticals, Inc.",2,1,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Definium Therapeutics US, Inc.",2,1,2,US,ยังไม่ยืนยัน,2026-11-01,DFTX,1813814,"Definium Therapeutics, Inc.",partial,https://www.sec.gov/files/company_tickers.json
+"Direct Biologics, LLC",2,1,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Dr. F. Köhler Chemie GmbH,2,1,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Dr. Falk Pharma GmbH,2,1,2,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"EMD Serono Research & Development Institute, Inc.",2,1,2,US|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+GC Biopharma Corp,2,1,2,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Glaukos Corporation,2,1,3,US,ยังไม่ยืนยัน,2026-11-01,GKOS,1192448,GLAUKOS Corp,exact,https://www.sec.gov/files/company_tickers.json
+"Hangzhou Highlightll Pharmaceutical Co., Ltd",2,1,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Huons Co., Ltd.",2,1,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Immunovant Sciences GmbH,2,1,6,US,ยังไม่ยืนยัน,2026-11-01,IMVT,1764013,"Immunovant, Inc.",partial,https://www.sec.gov/files/company_tickers.json
+Innovent Biologics Technology Limited (Shanghai R&D Center),2,1,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Iperboreal Pharma Srl,2,1,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"JCR Pharmaceuticals Co., Ltd.",2,1,4,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Jemincare,2,1,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Jiangsu Aosaikang Pharmaceutical Co., Ltd.",2,1,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Kailera,2,1,5,US,ยังไม่ยืนยัน,2026-11-01,KLRA,2096997,"Kailera Therapeutics, Inc.",partial,https://www.sec.gov/files/company_tickers.json
+Kind Pharmaceuticals LLC,2,1,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+MediciNova,2,1,2,US,ยังไม่ยืนยัน,2026-11-01,MNOV,1226616,MEDICINOVA INC,exact,https://www.sec.gov/files/company_tickers.json
+Mylan Pharmaceuticals Inc,2,1,2,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Nuvation Bio Inc.,2,1,2,US|US+CN,ยังไม่ยืนยัน,2026-11-01,NUVB,1811063,Nuvation Bio Inc.,exact,https://www.sec.gov/files/company_tickers.json
+"Opus Genetics, Inc",2,1,2,US,ยังไม่ยืนยัน,2026-11-01,IRD,1228627,"Opus Genetics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Pacira Pharmaceuticals, Inc",2,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Pharmazz, Inc.",2,1,2,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Pharming Technologies B.V.,2,1,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"R-Pharm International, LLC",2,1,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai Longwood Biopharmaceuticals Co., Ltd.",2,1,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Suzhou Alphamab Co., Ltd.",2,1,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Suzhou Immunofoco Biotechnology Co., Ltd",2,1,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Swedish Orphan Biovitrum,2,1,2,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Tanabe Pharma America, Inc.",2,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Teva Branded Pharmaceutical Products R&D LLC,2,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Travere Therapeutics, Inc.",2,1,3,US,ยังไม่ยืนยัน,2026-11-01,TVTX,1438533,"Travere Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+ABX advanced biochemical compounds GmbH,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Acacia Pharma Ltd,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Advenchen Laboratories Nanjing Ltd.,1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Aerogen Pharma Limited,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"AFT Pharmaceuticals, Ltd.",1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Agitated Solutions, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Airway Therapeutics, Inc.",1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Albireo, an Ipsen Company",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Aldeyra Therapeutics, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ALDX,1341235,"Aldeyra Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Alfasigma S.p.A.,1,1,3,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Alpine Immune Sciences Inc, A Subsidiary of Vertex",1,1,1,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Altimmune, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ALT,1326190,"Altimmune, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Alvotech Swiss AG,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Ambros Therapeutics, Inc.",1,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+AMO Pharma Limited,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Annovis Bio Inc.,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ANVS,1477845,"Annovis Bio, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Anthos Therapeutics, Inc.",1,1,1,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Applied Biologics, LLC",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Ascendis Pharma Bone Diseases A/S,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Ascletis Pharma (China) Co., Limited",1,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Astria Therapeutics, Inc.",1,1,1,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Atea Pharmaceuticals, Inc.",1,1,1,other,ยังไม่ยืนยัน,2026-11-01,AVIR,1593899,"Atea Pharmaceuticals, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Atsena Therapeutics Inc.,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Aurion Biotech,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Avecho Biotechnology,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Beijing VDJBio Co., LTD.",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Beijing Zhifei Lvzhu Biopharmaceutical Co., Ltd",1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Belite Bio, Inc",1,1,2,US+CN,ยังไม่ยืนยัน,2026-11-01,BLTE,1889109,"BELITE BIO, INC",exact,https://www.sec.gov/files/company_tickers.json
+Bigespas LTD,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Biocells (Beijing) Biotech Co.,Ltd",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Biomed Industries, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Biopharma Plasma LLC,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Biotest,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Bioverativ, a Sanofi company",1,1,1,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Birch BioMed Inc,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Bluefin Biomedicine, Inc.",1,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Braveheart Bio, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,BRVE,2131524,"Braveheart Bio, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Brise Pharmaceuticals Co., Ltd.",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Cabaletta Bio,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,CABA,1759138,"Cabaletta Bio, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Calcilytix Therapeutics, Inc., a BridgeBio company",1,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Caliway Biopharmaceuticals Co., Ltd.",1,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Camurus AB,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+CarThera,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Castle Creek Biosciences, LLC.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Celldex Therapeutics,1,1,2,US,ยังไม่ยืนยัน,2026-11-01,CLDX,744218,"Celldex Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+CellSeed Inc.,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"CereMark Pharma, LLC",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Cerium Pharmaceuticals, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"CG Oncology, Inc.",1,1,2,US,ยังไม่ยืนยัน,2026-11-01,CGON,1991792,"CG Oncology, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Chengdu Kangnuoxing Biopharma,Inc.",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Chengdu New Radiomedicine Technology Co. LTD.,1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Chongqing Claruvis Pharmaceutical Co., Ltd.",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Clarity Pharmaceuticals Ltd,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Cloudbreak Therapeutics, LLC",1,1,1,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+CMG Pharmaceutical Co. Ltd,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+COMPASS Pathways,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,CMPS,1816590,COMPASS Pathways plc,exact,https://www.sec.gov/files/company_tickers.json
+Cook MyoSite,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+CorMedix Therapeutics,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,CRMD,1410098,CorMedix Inc.,partial,https://www.sec.gov/files/company_tickers.json
+"Corvus Pharmaceuticals, Inc.",1,1,2,US,ยังไม่ยืนยัน,2026-11-01,CRVS,1626971,"Corvus Pharmaceuticals, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Corza Medical GmbH,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Coya Therapeutics,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,COYA,1835022,"Coya Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Crystalys Therapeutics,1,1,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"CSPC Baike (Shandong) Biopharmaceutical Co., Ltd.",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"CSPC Mingfule Pharmaceutical (Guangzhou) Co., Ltd.",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Curemark,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Cybin IRL Limited,1,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Cytokinetics,1,1,1,US+CN,ยังไม่ยืนยัน,2026-11-01,CYTK,1061983,CYTOKINETICS INC,exact,https://www.sec.gov/files/company_tickers.json
+Cytopeutics Sdn. Bhd.,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+DalCor Pharmaceuticals,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+DBV Technologies,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+DiaMedica Therapeutics Inc,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,DMAC,1401040,DiaMedica Therapeutics Inc.,exact,https://www.sec.gov/files/company_tickers.json
+Dianthus Therapeutics,1,1,3,US+CN,ยังไม่ยืนยัน,2026-11-01,DNTH,1690585,"Dianthus Therapeutics, Inc. /DE/",exact,https://www.sec.gov/files/company_tickers.json
+"DiscGenics, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Doron Therapeutics Inc.,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Dr George Medvedev,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Dyne Therapeutics,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,DYN,1818794,"Dyne Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+ECRI bv,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Eidos Therapeutics, a BridgeBio company",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Electra Therapeutics Inc.,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ETRA,2088082,"Electra Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Eleison Pharmaceuticals LLC.,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Emalex Biosciences Inc.,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Endo USA Inc., a Keenova Therapeutics Company",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Epygenix,1,1,2,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Eurofarma Laboratorios S.A.,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"EyePoint Pharmaceuticals, Inc.",1,1,2,US,ยังไม่ยืนยัน,2026-11-01,EYPT,1314102,"EyePoint, Inc.",partial,https://www.sec.gov/files/company_tickers.json
+Fidia Farmaceutici s.p.a.,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Fujian Akeylink Biotechnology Co., Ltd.",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Fujian Mindong Rejuvenation Pharmaceutical Co., Ltd.",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+FutureChem,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Gameto, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Gasherbrum Bio, Inc., a wholly owned subsidiary of Structure Therapeutics",1,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Gedeon Richter Plc.,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Generate Biomedicines,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,GENB,2100782,"Generate Biomedicines, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Genetix Biotherapeutics Inc.,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Genexine, Inc.",1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Geron Corporation,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,GERN,886744,GERON CORP,exact,https://www.sec.gov/files/company_tickers.json
+Geropharm,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+GIE Medical,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Gossamer Bio USA, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,GOSS,1728117,"Gossamer Bio, Inc.",partial,https://www.sec.gov/files/company_tickers.json
+"Grace Science, LLC",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Granata Bio Corporation,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Grand Shuyang Life Sciences (Chengdu) Co., Ltd.",1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Grifols Biologicals, LLC",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"GRIN Therapeutics, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Gritgen Therapeutics Co., Ltd.",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Guangzhou JOYO Pharma Co., Ltd",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Halozyme Therapeutics,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,HALO,1159036,"HALOZYME THERAPEUTICS, INC.",exact,https://www.sec.gov/files/company_tickers.json
+"Hangzhou Gensciences Biopharmaceutical Co., Ltd.",1,1,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Harrow Inc,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,HROW,1360214,"HARROW, INC.",exact,https://www.sec.gov/files/company_tickers.json
+"HELP Therapeutics Co., Ltd.",1,1,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Hope Medicine (Nanjing) Co., Ltd",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Humacyte, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,HUMA,1818382,"Humacyte, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Huons Biopharma,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Hyundai Bioscience Co., Ltd.",1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"iECURE, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Il-Yang Pharm. Co., Ltd.",1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Immunic AG,1,1,2,US,ยังไม่ยืนยัน,2026-11-01,IMUX,1280776,"IMMUNIC, INC.",exact,https://www.sec.gov/files/company_tickers.json
+"Innostellar Biotherapeutics Co.,Ltd",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Innovacell GmbH,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Insud Pharma,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Intensity Therapeutics, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,INTS,1567264,"INTENSITY THERAPEUTICS, INC.",exact,https://www.sec.gov/files/company_tickers.json
+IntraBio Inc,1,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Inventiva Pharma,1,1,1,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Italfarmaco,1,1,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+ITM Solucin GmbH,1,1,1,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+iVascular S.L.U.,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"J-Pharma Co., Ltd.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Janssen-Cilag Ltd.,1,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Jiangsu Genscend Biopharmaceutical Co., Ltd",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Jiangsu Healthy Life Innovation Medical Technology Co., Ltd",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Jiangxi Qingfeng Pharmaceutical Co. Ltd.,1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+JYAMS PET Research & Development Limited,1,1,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"K-Group, Beta, Inc., a wholly owned subsidiary of Zentalis Pharmaceuticals, Inc",1,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Kaken Pharmaceutical,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Karuna Therapeutics, Inc., a Bristol Myers Squibb company",1,1,3,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Kiniksa Pharmaceuticals International, plc",1,1,2,US,ยังไม่ยืนยัน,2026-11-01,KNSA,1730430,"Kiniksa Pharmaceuticals International, plc",exact,https://www.sec.gov/files/company_tickers.json
+Laboratorios Silanes S.A. de C.V.,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"LaNova Medicines Zhejiang Co., Ltd.",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Lantheus Biosciences Ltd.,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,LNTH,1521036,"Lantheus Holdings, Inc.",partial,https://www.sec.gov/files/company_tickers.json
+LeonaBio,1,1,1,US+CN,ยังไม่ยืนยัน,2026-11-01,LONA,1620463,"LeonaBio, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Lexicon Pharmaceuticals,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,LXRX,1062822,"LEXICON PHARMACEUTICALS, INC.",exact,https://www.sec.gov/files/company_tickers.json
+LG Chem,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Lipocine Inc.,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,LPCN,1535955,Lipocine Inc.,exact,https://www.sec.gov/files/company_tickers.json
+Longboard Pharmaceuticals,1,1,2,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Loxo Oncology, Inc.",1,1,3,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Lumos Pharma,1,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Lunan Better Pharmaceutical Co., LTD.",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+LXO Ireland,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Lynk Pharmaceuticals Co., Ltd",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+mAbxience Research S.L.,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Madrigal Pharmaceuticals, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,MDGL,1157601,"MADRIGAL PHARMACEUTICALS, INC.",exact,https://www.sec.gov/files/company_tickers.json
+MAXVAX Biotechnology Limited Liability Company,1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+medac GmbH,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Medicine Invention Design, Inc",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Medicure,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,MCUJF,1133519,MEDICURE INC,exact,https://www.sec.gov/files/company_tickers.json
+MeiraGTx Ocular UK Ltd,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,MGTX,1735438,MeiraGTx Holdings plc,partial,https://www.sec.gov/files/company_tickers.json
+Merz Therapeutics GmbH,1,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Mesoblast, Ltd.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,MESO,1345099,MESOBLAST LTD,exact,https://www.sec.gov/files/company_tickers.json
+Metcela Inc.,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+MicuRx,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+MoonLake Immunotherapeutics AG,1,1,3,US,ยังไม่ยืนยัน,2026-11-01,MLTX,1821586,MoonLake Immunotherapeutics,exact,https://www.sec.gov/files/company_tickers.json
+"Nanjing IASO Biotechnology Co., Ltd.",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Nanjing Minova Pharmaceutical Co., Ltd.",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Nanjing Sanhome Pharmaceutical, Co., Ltd.",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Napo Pharmaceuticals, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"National Vaccine and Serum Institute, China",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Nature Cell Co. Ltd.,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Natureceuticals Sdn Bhd,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Nectero Medical, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Nektar Therapeutics,1,1,2,US,ยังไม่ยืนยัน,2026-11-01,NKTR,906709,NEKTAR THERAPEUTICS,exact,https://www.sec.gov/files/company_tickers.json
+NervGen Pharma,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,NGEN,1751912,NERVGEN PHARMA CORP.,exact,https://www.sec.gov/files/company_tickers.json
+Neuraptive Therapeutics Inc.,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Neuren Pharmaceuticals Limited,1,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"NeuroRx, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Neurotech Pharmaceuticals,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Neuvosyn Laboratories, LLC",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Newron Pharmaceuticals SPA,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Ningbo Newbay Technology Development Co., Ltd",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Noema Pharma AG,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Norgine,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Norroy Bioscience Co., LTD",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+NovoCure GmbH,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,NVCR,1645113,NovoCure Ltd,exact,https://www.sec.gov/files/company_tickers.json
+NX Development Corp,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Olatec Therapeutics, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Onconic Therapeutics Inc.,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+OncoZenge AB,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Orchard Therapeutics,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Orphalan,1,1,1,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+OSE Immunotherapeutics,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Outlook Therapeutics, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,OTLK,1649989,"Outlook Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Pelage Pharmaceuticals, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Peptilogics,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+PharmaEssentia,1,1,1,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Pharvaris Netherlands B.V.,1,1,3,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Phathom Pharmaceuticals, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,PHAT,1783183,"Phathom Pharmaceuticals, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"PleoPharma, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+POLYSAN Scientific & Technological Pharmaceutical Company,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Prilenia,1,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Priothera SAS,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Priovant Therapeutics, Inc.",1,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Prokrea BCN, S.L.",1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+PTC Therapeutics,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,PTCT,1070081,"PTC THERAPEUTICS, INC.",exact,https://www.sec.gov/files/company_tickers.json
+Quercis Pharma AG,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Quetzal Therapeutics,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+R-Bio,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Rapa Therapeutics LLC,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Ray Therapeutics, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"RayzeBio, Inc.",1,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Regenerative Ocular Immunobiologics LLC,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+REGENXBIO Inc.,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,RGNX,1590877,REGENXBIO Inc.,exact,https://www.sec.gov/files/company_tickers.json
+"Renibus Therapeutics, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Renovion, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+RenovoRx,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,RNXT,1574094,"RenovoRx, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Restem, LLC.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+RHEACELL GmbH & Co. KG,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Sagimet Biosciences Inc.,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,SGMT,1400118,Sagimet Biosciences Inc.,exact,https://www.sec.gov/files/company_tickers.json
+Sandoz,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Saol Therapeutics Inc,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Savara Inc.,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,SVRA,1160308,Savara Inc,exact,https://www.sec.gov/files/company_tickers.json
+SecuraBio,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Seismic Pharmaceuticals Operations LLC,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shaanxi Micot Pharmaceutical Technology Co., Ltd.",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai Ark Biopharmaceutical Co., Ltd.",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Shanghai Hutchison Pharmaceuticals Limited,1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai Vitalgen BioPharma Co., Ltd.",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai Xinzhi BioMed Co., Ltd.",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Shin Poong Pharmaceutical Co. Ltd.,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"SK Life Science, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Sling Therapeutics, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Smilebiotek Zhuhai Limited,1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+SOFIE,1,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Sound Pharmaceuticals, Incorporated",1,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Spur Therapeutics,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Stealth BioTherapeutics Inc.,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Stoke Therapeutics, Inc",1,1,1,US+CN,ยังไม่ยืนยัน,2026-11-01,STOK,1623526,"Stoke Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Sun Pharma Japan Limited,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"SUNHO（China）BioPharmaceutical CO., Ltd.",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+SymBio Pharmaceuticals,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Taejoon Pharmaceutical Co., Ltd.",1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Tasly Pharmaceuticals, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+TCM Biotech International Corp.,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"TG Therapeutics, Inc.",1,1,4,US,ยังไม่ยืนยัน,2026-11-01,TGTX,1001316,"TG THERAPEUTICS, INC.",exact,https://www.sec.gov/files/company_tickers.json
+"Thryv Therapeutics, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Transcend Therapeutics,1,1,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+TRB Chemedica,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Trevi Therapeutics,1,1,3,US,ยังไม่ยืนยัน,2026-11-01,TRVI,1563880,"Trevi Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"TriGemX Bio, Inc.",1,1,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Triple Hair Inc,1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Trust Bio-sonics, Inc.",1,1,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Turn Therapeutics,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,TTRX,2023016,Turn Therapeutics Inc.,exact,https://www.sec.gov/files/company_tickers.json
+UroGen Pharma Ltd.,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,URGN,1668243,UroGen Pharma Ltd.,exact,https://www.sec.gov/files/company_tickers.json
+Vantive Health LLC,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+VectivBio AG,1,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Vedanta Biosciences, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Vega Therapeutics, Inc",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Vertanical GmbH,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Viking Therapeutics, Inc.",1,1,2,US,ยังไม่ยืนยัน,2026-11-01,VKTX,1607678,"Viking Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Vor Biopharma,1,1,2,US+CN,ยังไม่ยืนยัน,2026-11-01,VOR,1817229,Vor Biopharma Inc.,exact,https://www.sec.gov/files/company_tickers.json
+"Wanbangde Pharmaceutical Group Co., LTD",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Waterstone Pharmaceutical (Wuhan) Co., LTD.",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Wuhan Createrna Science and Technology Co., Ltd",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Wuxi Cellular Biopharmaceutical Group Ltd.,1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+X4 Pharmaceuticals,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,XFOR,1501697,"X4 Pharmaceuticals, Inc",exact,https://www.sec.gov/files/company_tickers.json
+"Yong Zhao, MD, PhD",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Youssef Yammine,1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"YS Life Science Co., Ltd.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Zhejiang Sunshine Mandi Pharmaceutical Co.,Ltd.",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Zhejiang Vimgreen Pharmaceuticals, Ltd.",1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Zhejiang Wenda Pharma Technology LTD.,1,1,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Zogenix, Inc.",1,1,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Zydus Therapeutics Inc.,1,1,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Beijing Biotech,41,0,71,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Phanes Therapeutics,26,0,27,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Keymed Biosciences Co.Ltd,25,0,26,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Genentech, Inc.",23,0,25,US|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+FBD Biologics Limited,19,0,19,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+CStone Pharmaceuticals,14,0,14,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Nanjing Leads Biolabs Co.,Ltd",14,0,30,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+BioMarin Pharmaceutical,12,0,13,US|other,ยังไม่ยืนยัน,2026-11-01,BMRN,1048477,BIOMARIN PHARMACEUTICAL INC,exact,https://www.sec.gov/files/company_tickers.json
+"Sumitomo Pharma America, Inc.",12,0,12,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Abbisko Therapeutics Co, Ltd",11,0,11,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+CellCentric Ltd.,11,0,11,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"CSPC Megalith Biopharmaceutical Co.,Ltd.",11,0,11,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Ellipses Pharma,11,0,11,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Neonc Technologies, Inc.",11,0,11,US,ยังไม่ยืนยัน,2026-11-01,NTHI,1979414,"NEONC TECHNOLOGIES HOLDINGS, INC.",exact,https://www.sec.gov/files/company_tickers.json
+"Stemline Therapeutics, Inc.",10,0,14,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Transcenta Therapeutics (Hangzhou) Co., Ltd.",10,0,12,CN|US|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Avenzo Therapeutics, Inc.",9,0,12,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+BioInvent International AB,9,0,9,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Convergent Therapeutics,9,0,9,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Incannex Healthcare Ltd,9,0,9,US,ยังไม่ยืนยัน,2026-11-01,IXHL,1873875,Incannex Healthcare Inc.,exact,https://www.sec.gov/files/company_tickers.json
+"Edgewise Therapeutics, Inc.",8,0,11,US,ยังไม่ยืนยัน,2026-11-01,EWTX,1710072,"Edgewise Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Evopoint Biosciences Inc.,8,0,8,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Risen (Suzhou) Pharma Tech Co., Ltd.",8,0,8,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Tango Therapeutics, Inc.",8,0,9,US,ยังไม่ยืนยัน,2026-11-01,TNGX,1819133,"Tango Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Alentis Therapeutics AG,7,0,7,US+CN|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+ALX Oncology Inc.,7,0,7,US,ยังไม่ยืนยัน,2026-11-01,ALXO,1810182,ALX ONCOLOGY HOLDINGS INC,exact,https://www.sec.gov/files/company_tickers.json
+"D3 Bio (Wuxi) Co., Ltd",7,0,8,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Eikon Therapeutics,7,0,7,US|US+CN,ยังไม่ยืนยัน,2026-11-01,EIKN,1861123,"Eikon Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Mapi Pharma Ltd.,7,0,7,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Miltenyi Biomedicine GmbH,7,0,7,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Oncolytics Biotech,7,0,8,US|other,ยังไม่ยืนยัน,2026-11-01,ONCY,1129928,ONCOLYTICS BIOTECH INC,exact,https://www.sec.gov/files/company_tickers.json
+"Replimune, Inc.",7,0,7,US,ยังไม่ยืนยัน,2026-11-01,REPL,1737953,"Replimune Group, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+BicycleTx Limited,6,0,8,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Carina Biotech Limited,6,0,6,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Criterium, Inc.",6,0,6,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Genrix (Shanghai) Biopharmaceutical Co., Ltd.",6,0,7,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"GuangZhou Cellgenes Biotechnology Co., Ltd.",6,0,6,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+R1 Therapeutics,6,0,6,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai Minwei Biotechnology Co., Ltd",6,0,6,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Sichuan Huiyu Pharmaceutical Co., Ltd",6,0,6,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Teclison Ltd.,6,0,6,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Zhejiang Doer Biologics Co., Ltd.",6,0,6,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"3D Medicines (Sichuan) Co., Ltd.",5,0,6,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Aminex Therapeutics, Inc.",5,0,5,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Aplagon Oy,5,0,5,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Artios Pharma Ltd,5,0,5,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Ascendis Pharma Oncology Division A/S,5,0,5,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+CONNEXT,5,0,5,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+CuraCell TX AB,5,0,5,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"CytoAgents, Inc.",5,0,5,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Faron Pharmaceuticals Ltd,5,0,6,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Forward Pharmaceuticals Co., Ltd.",5,0,5,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"GI Innovation, Inc.",5,0,5,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Grit Biotechnology,5,0,5,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Hemab ApS,5,0,5,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Jiangsu Alphamab Biopharmaceuticals Co., Ltd",5,0,5,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Laboratoires Thea,5,0,5,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Locus Biosciences,5,0,5,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Nuvalent Inc.,5,0,5,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Octant, Inc.",5,0,5,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Parabilis Medicines, Inc.",5,0,5,US,ยังไม่ยืนยัน,2026-11-01,PBLS,1657677,"Parabilis Medicines, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Perspective Therapeutics,5,0,5,US,ยังไม่ยืนยัน,2026-11-01,CATX,728387,"Perspective Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Ryvu Therapeutics SA,5,0,6,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Shanghai Fosun Pharmaceutical Industrial Development Co. Ltd.,5,0,5,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shenzhen Majory Biotechnology Co., Ltd.",5,0,5,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Spyre Therapeutics, Inc.",5,0,5,US,ยังไม่ยืนยัน,2026-11-01,SYRE,1636282,"Spyre Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"TORL Biotherapeutics, LLC",5,0,5,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Anbogen Therapeutics, Inc.",4,0,4,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Apsen Farmaceutica S.A.,4,0,4,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+AskBio Inc,4,0,4,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Astellas Gene Therapies,4,0,4,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Aulos Bioscience, Inc.",4,0,4,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Beam Therapeutics Inc.,4,0,4,US,ยังไม่ยืนยัน,2026-11-01,BEAM,1745999,Beam Therapeutics Inc.,exact,https://www.sec.gov/files/company_tickers.json
+"Beijing Tide Pharmaceutical Co., Ltd",4,0,4,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Betta Pharmaceuticals Co., Ltd.",4,0,4,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Cardiff Oncology,4,0,4,US,ยังไม่ยืนยัน,2026-11-01,CRDF,1213037,"Cardiff Oncology, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+CellARTs Inc.,4,0,4,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Changchun Tuohua Pharmaceutical Co., Ltd.",4,0,4,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Chongqing Precision Biotech Co., Ltd",4,0,4,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Engeneic Pty Limited,4,0,4,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"EpicentRx, Inc.",4,0,4,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Hangzhou DAC Biotechnology Co., Ltd.",4,0,4,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Hefei Xinzhu Biological Technology Co., Ltd.",4,0,4,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Hummingbird Bioscience,4,0,4,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Immatics Biotechnologies GmbH,4,0,4,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Imunon,4,0,4,US,ยังไม่ยืนยัน,2026-11-01,IMNN,749647,"Imunon, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Inovio Pharmaceuticals,4,0,4,US,ยังไม่ยืนยัน,2026-11-01,INO,1055726,"INOVIO PHARMACEUTICALS, INC.",exact,https://www.sec.gov/files/company_tickers.json
+"Jacobio Pharmaceuticals Co., Ltd.",4,0,6,CN|US|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Jiangsu Hansoh Pharmaceutical Co., Ltd.",4,0,4,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Kriya Therapeutics, Inc.",4,0,4,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Lyell Immunopharma, Inc.",4,0,4,US,ยังไม่ยืนยัน,2026-11-01,LYEL,1806952,"Lyell Immunopharma, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Marengo Therapeutics, Inc.",4,0,5,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"MeiraGTx, LLC",4,0,4,US,ยังไม่ยืนยัน,2026-11-01,MGTX,1735438,MeiraGTx Holdings plc,exact,https://www.sec.gov/files/company_tickers.json
+"Nkarta, Inc.",4,0,5,US,ยังไม่ยืนยัน,2026-11-01,NKTX,1787400,"Nkarta, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Prevail Therapeutics,4,0,4,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+PT. Prodia Stem Cell Indonesia,4,0,4,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai EpimAb Biotherapeutics Co., Ltd.",4,0,4,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shenyang Sunshine Pharmaceutical Co., LTD.",4,0,5,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shenzhen Beike Bio-Technology Co., Ltd.",4,0,4,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shenzhen Wingor Biotechnology Co., Ltd.",4,0,4,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+TenNor Therapeutics (Zhongshan) Limited,4,0,4,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+TenNor Therapeutics Inc.,4,0,4,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Toray Industries, Inc",4,0,5,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Tvardi Therapeutics, Incorporated",4,0,4,US,ยังไม่ยืนยัน,2026-11-01,TVRD,1346830,"Tvardi Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Tyra Biosciences, Inc",4,0,4,US,ยังไม่ยืนยัน,2026-11-01,TYRA,1863127,"Tyra Biosciences, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Vironexis Biotherapeutics Inc.,4,0,4,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Wayshine Biopharm, Inc.",4,0,5,CN|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Xyra, LLC",4,0,4,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Yuhan Corporation,4,0,4,CN|US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Zhejiang Haichang Biotech Co., Ltd.",4,0,4,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"7 Hills Pharma, LLC",3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+A2 Biotherapeutics Inc.,3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"ABL Bio, Inc.",3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+AC Immune SA,3,0,3,other,ยังไม่ยืนยัน,2026-11-01,ACIU,1651625,AC Immune SA,exact,https://www.sec.gov/files/company_tickers.json
+Acrivon Therapeutics,3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ACRV,1781174,"Acrivon Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Advenchen Pharmaceuticals, LLC.",3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+AeroRx Therapeutics Inc.,3,0,3,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Allogene Therapeutics,3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ALLO,1737287,"Allogene Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Alto Neuroscience,3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ANRO,1999480,"Alto Neuroscience, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Anova Innovation Limited,3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+AP Biosciences Inc.,3,0,3,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Aptose Biosciences Inc.,3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"ARCE Therapeutics, Inc.",3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Arthrosi Therapeutics,3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Atom Therapeutics Co., Ltd",3,0,3,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Avirmax Biopharma Inc,3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+BeyondBio Inc.,3,0,4,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Brii Biosciences Limited,3,0,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Cellid Co., Ltd.",3,0,3,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Cho Pharma Inc.,3,0,3,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Coherus Oncology, Inc.",3,0,3,US+CN,ยังไม่ยืนยัน,2026-11-01,CHRS,1512762,"Coherus Oncology, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Corcept Therapeutics,3,0,4,US,ยังไม่ยืนยัน,2026-11-01,CORT,1088856,CORCEPT THERAPEUTICS INC,exact,https://www.sec.gov/files/company_tickers.json
+"Curis, Inc.",3,0,4,US,ยังไม่ยืนยัน,2026-11-01,CRIS,1108205,CURIS INC,exact,https://www.sec.gov/files/company_tickers.json
+"CytoDyn, Inc.",3,0,3,US,ยังไม่ยืนยัน,2026-11-01,CYDY,1175680,CytoDyn Inc.,exact,https://www.sec.gov/files/company_tickers.json
+Dynavax Technologies Corporation,3,0,3,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Eisai Co., Ltd.",3,0,3,CN|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Eisbach Bio GmbH,3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Elevara Medicines Limited,3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Elpiscience (Suzhou) Biopharma, Ltd.",3,0,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"enGene, Inc.",3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Ensem Therapeutics,3,0,3,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Faeth Therapeutics,3,0,3,US,ยังไม่ยืนยัน,2026-11-01,FTH,1829802,"Faeth Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Freya Biosciences ApS,3,0,3,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Genprex, Inc.",3,0,4,US,ยังไม่ยืนยัน,2026-11-01,GNPX,1595248,"Genprex, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"GrandPharma (China) Co., Ltd.",3,0,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Hangzhou Huasai Biomedicine Co., Ltd.",3,0,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Harpoon Therapeutics, Inc., a subsidiary of Merck & Co., Inc. (Rahway, New Jersey USA)",3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Henan Genuine Biotech Co., Ltd.",3,0,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+ImmunoGenesis,3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Incyclix Bio,3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+InSilico Medicine Hong Kong Limited,3,0,3,CN|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+iOnctura,3,0,5,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Jecho Biopharmaceuticals Co., Ltd.",3,0,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Juno Therapeutics, a Subsidiary of Celgene",3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Kiora Pharmaceuticals, Inc.",3,0,3,other,ยังไม่ยืนยัน,2026-11-01,KPRX,1372514,KIORA PHARMACEUTICALS INC,exact,https://www.sec.gov/files/company_tickers.json
+"Kura Oncology, Inc.",3,0,3,US,ยังไม่ยืนยัน,2026-11-01,KURA,1422143,"Kura Oncology, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Kyowa Kirin Co., Ltd.",3,0,3,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Lantern Pharma Inc.,3,0,3,US,ยังไม่ยืนยัน,2026-11-01,LTRN,1763950,Lantern Pharma Inc.,exact,https://www.sec.gov/files/company_tickers.json
+Lyvgen Biopharma Holdings Limited,3,0,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Mannkind Corporation,3,0,3,US|other,ยังไม่ยืนยัน,2026-11-01,MNKD,899460,MANNKIND CORP,exact,https://www.sec.gov/files/company_tickers.json
+"Maxinovel Pty., Ltd.",3,0,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Medipost Co Ltd.,3,0,3,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Nanjing Immunophage Biotech Co., Ltd",3,0,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Newsoara HYK Biopharmaceutical (Shanghai) Co., Ltd.",3,0,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Novelwise Pharmaceutical Corporation,3,0,3,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"NS Pharma, Inc.",3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Nura Bio,3,0,3,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"OncoVerity, Inc.",3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"PhenoNet, Inc.",3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Pikavation Therapeutics, Inc.",3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+PolyActiva Pty Ltd,3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"PPD Development, LP",3,0,6,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Puma Biotechnology, Inc.",3,0,5,US|other,ยังไม่ยืนยัน,2026-11-01,PBYI,1401667,"PUMA BIOTECHNOLOGY, INC.",exact,https://www.sec.gov/files/company_tickers.json
+"Radiopharm Theranostics, Ltd",3,0,3,US|other,ยังไม่ยืนยัน,2026-11-01,RADX,1949257,Radiopharm Theranostics Ltd,exact,https://www.sec.gov/files/company_tickers.json
+Sellas Life Sciences Group,3,0,3,US+CN,ยังไม่ยืนยัน,2026-11-01,SLS,1390478,"SELLAS Life Sciences Group, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Shanghai Guangsheng Biopharmaceutical Co., Ltd",3,0,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai Huicun Medical Technology Co., Ltd.",3,0,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shenzhen Kangzhe Biotechnology Co., Ltd.",3,0,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Skye Bioscience, Inc.",3,0,3,US,ยังไม่ยืนยัน,2026-11-01,SKYE,1516551,"Skye Bioscience, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Supernus Pharmaceuticals, Inc.",3,0,5,US|other,ยังไม่ยืนยัน,2026-11-01,SUPN,1356576,"SUPERNUS PHARMACEUTICALS, INC.",exact,https://www.sec.gov/files/company_tickers.json
+"Suzhou Forlong Biotechnology Co., Ltd",3,0,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"SynerGene Therapeutics, Inc.",3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+T3 Pharmaceuticals AG,3,0,3,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"TaiRx, Inc.",3,0,3,CN|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+ThromBio Pty. Ltd.,3,0,3,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+TILT Biotherapeutics Ltd.,3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+TME Pharma AG,3,0,3,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Uniquity One (UNI),3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Zucara Therapeutics Inc.,3,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Abivax S.A.,2,0,2,US|other,ยังไม่ยืนยัน,2026-11-01,ABVX,1956827,Abivax S.A.,exact,https://www.sec.gov/files/company_tickers.json
+Absci Pty Ltd.,2,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Accent Therapeutics,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Aelis Farma,2,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Agenus Inc.,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,AGEN,1098972,AGENUS INC,exact,https://www.sec.gov/files/company_tickers.json
+AGO Research GmbH,2,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Akebia Therapeutics,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,AKBA,1517022,"Akebia Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Altesa Biosciences, Inc.",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Amplia Therapeutics Limited,2,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Anagram Therapeutics, Inc.",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Antag Therapeutics,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Antengene Biologics Limited,2,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Apollo Therapeutics Ltd,2,0,2,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Arctic Therapeutics,2,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Arialys Australia Pty Ltd,2,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Aston Sci. Inc.,2,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Atossa Therapeutics, Inc.",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ATOS,1488039,"ATOSSA THERAPEUTICS, INC.",exact,https://www.sec.gov/files/company_tickers.json
+"Beijing Gene Key Life Technology Co., Ltd",2,0,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Beijing Sungen Biomedical Technology Co., Ltd",2,0,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Bilix Co.,Ltd.",2,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Bio-Path Holdings, Inc.",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"BioAge Labs, Inc.",2,0,3,US,ยังไม่ยืนยัน,2026-11-01,BIOA,1709941,"BioAge Labs, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Biomea Fusion Inc.,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,BMEA,1840439,"Biomea Fusion, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"BioRay Pharmaceutical Co., Ltd.",2,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Biostar Pharma, Inc.",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Blue Earth Diagnostics,2,0,2,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Blue Lake Biotechnology Inc.,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Blueprint Medicines Corporation,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Boston Scientific Corporation,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,BSX,885725,BOSTON SCIENTIFIC CORP,exact,https://www.sec.gov/files/company_tickers.json
+CatalYm GmbH,2,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Celcuity Inc,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,CELC,1603454,Celcuity Inc.,exact,https://www.sec.gov/files/company_tickers.json
+Cellectis S.A.,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,CLLS,1627281,Cellectis S.A.,exact,https://www.sec.gov/files/company_tickers.json
+Citryll BV,2,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Clover Biopharmaceuticals AUS Pty,2,0,2,other,ยังไม่ยืนยัน,2026-11-01,CBPHF,1856491,"Clover Biopharmaceuticals, Ltd.",partial,https://www.sec.gov/files/company_tickers.json
+Contineum Therapeutics,2,0,2,other,ยังไม่ยืนยัน,2026-11-01,CTNM,1855175,"Contineum Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Creative Medical Technology Holdings Inc,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,CELZ,1187953,"CREATIVE MEDICAL TECHNOLOGY HOLDINGS, INC.",exact,https://www.sec.gov/files/company_tickers.json
+"Crossignal Therapeutics, Inc.",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Design Therapeutics, Inc.",2,0,2,US|other,ยังไม่ยืนยัน,2026-11-01,DSGN,1807120,"Design Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Domain Therapeutics Australia Pty Ltd,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Eccogene,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Emmecell,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Eureka Therapeutics Inc.,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Eveliqure Biotechnologies GmbH,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Ever Supreme Bio Technology Co., Ltd.",2,0,4,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Evommune, Inc.",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,EVMN,2044725,"Evommune, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+EXACT Therapeutics AS,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Expedition Therapeutics, Inc",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Exscientia AI Ltd., a wholly owned subsidiary of Recursion Pharmaceuticals, Inc.",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Filamon LTD,2,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"FindCure Biosciences (ZhongShan) Co., Ltd.",2,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Forma Therapeutics, Inc.",2,0,3,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Frantz Viral Therapeutics, LLC",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Fusion Pharmaceuticals Inc.,2,0,3,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Gemma Biotherapeutics,2,0,2,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+GEN İlaç ve Sağlık Ürünleri A.Ş.,2,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Georgiamune Inc,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Guangzhou Gloria Biosciences Co., Ltd.",2,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Guangzhou Lupeng Pharmaceutical Company LTD.,2,0,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+GV20 Therapeutics,2,0,3,US|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Hangzhou Hanx Biopharmaceuticals, Ltd.",2,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Hope Biosciences LLC,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Hope Biosciences Research Foundation,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Huabo Biopharm Co., Ltd.",2,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"HuniLife Biotechnology, Inc.",2,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Ikaria Bioscience Pty Ltd,2,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Imbioray (Hangzhou) Biomedicine Co., Ltd.",2,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+ImmunAbs Inc.,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+ImmVira Pharma Co. Ltd,2,0,2,CN|US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Imvax,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Indaptus Therapeutics, Inc",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,INDP,1857044,"Indaptus Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Institut de Recherches Internationales Servier (I.R.I.S.),2,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+IVIEW Therapeutics Inc.,2,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Jiangsu Aidea Pharmaceutical Group Co., Ltd.",2,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Klus Pharma Inc.,2,0,2,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Kumquat Biosciences Inc.,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"L & L Bio Co., Ltd., Ningbo, China",2,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Lamassu Bio Inc,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Lantheus Medical Imaging,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,LNTH,1521036,"Lantheus Holdings, Inc.",partial,https://www.sec.gov/files/company_tickers.json
+Lantu Biopharma,2,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Latticon Antibody Therapeutics, Inc",2,0,2,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Leadingtac Pharmaceutical (Shaoxing) Co., Ltd.",2,0,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"LigaChem Biosciences, Inc.",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+LISCure Biosciences,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Lubris Bio Pty Ltd,2,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Lumara Bio Oncologics GmbH,2,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+MapLight Therapeutics,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,MPLT,1770069,"MapLight Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Marea Therapeutics,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+MBX Biosciences,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,MBX,1776111,"MBX Biosciences, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Mediar Therapeutics,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Medicenna Therapeutics, Inc.",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,MDNAF,1807983,Medicenna Therapeutics Corp.,exact,https://www.sec.gov/files/company_tickers.json
+MetaFines,2,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Mirador Therapeutics, Inc.",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"ModeX Therapeutics, An OPKO Health Company",2,0,2,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Monte Rosa Therapeutics, Inc",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,GLUE,1826457,"Monte Rosa Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Monument Therapeutics Limited,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+MRM Health NV,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+NATCO Pharma Ltd.,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Nerviano Medical Sciences,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Nerviano Medical Sciences (Shanghai) Ltd.,2,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"NGM Biopharmaceuticals, Inc",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"OPKO Health, Inc.",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,OPK,944809,"OPKO HEALTH, INC.",exact,https://www.sec.gov/files/company_tickers.json
+"OriCell Therapeutics Co., Ltd.",2,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Orion Corporation, Orion Pharma",2,0,2,US|other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Oruka Therapeutics, Inc.",2,0,3,US,ยังไม่ยืนยัน,2026-11-01,ORKA,907654,"Oruka Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Pathos AI, Inc.",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Peloton Therapeutics, Inc., a subsidiary of Merck & Co., Inc. (Rahway, New Jersey USA)",2,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Phoenix Molecular Designs,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"PMV Pharmaceuticals, Inc",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,PMVP,1699382,"PMV Pharmaceuticals, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Portage Biotech,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Primmune Therapeutics, Inc.",2,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"ProDa BioTech, LLC",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Protalix,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,PLX,1006281,"Protalix BioTherapeutics, Inc.",partial,https://www.sec.gov/files/company_tickers.json
+Psivac Ltd,2,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Pyrotech Therapeutics, Inc.",2,0,2,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Pyxis Oncology, Inc",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,PYXS,1782223,"Pyxis Oncology, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Qingdao WanMing BioCell Pharmaceutics Co.,Ltd.",2,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Qurient Co., Ltd.",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Ranok Therapeutics (Hangzhou) Co., Ltd.",2,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+ReCode Therapeutics,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Recursion Pharmaceuticals Inc.,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,RXRX,1601830,"RECURSION PHARMACEUTICALS, INC.",exact,https://www.sec.gov/files/company_tickers.json
+"Rempex (a wholly owned subsidiary of Melinta Therapeutics, LLC)",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Repertoire Immune Medicines,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Rottapharm Biotech,2,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"SAb Biotherapeutics, Inc.",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,SABS,1833214,"SAB Biotherapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Sanaria Inc.,2,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Sapience Therapeutics,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"ScinnoHub Pharmaceutical Co., Ltd.",2,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai BDgene Co., Ltd.",2,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai Unicar-Therapy Bio-medicine Technology Co.,Ltd",2,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai Yidian Pharmaceutical Technology Development Co., Ltd.",2,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shenzhen Ionova Life Sciences Co., Ltd.",2,0,2,CN|US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Singulera Therapeutics Inc.,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Solid Biosciences Inc.,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,SLDB,1707502,Solid Biosciences Inc.,exact,https://www.sec.gov/files/company_tickers.json
+SpectraCure AB,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Spirovant Sciences, Inc.",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+STORM Therapeutics LTD,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Strand Therapeutics Inc.,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Suzhou BlueHorse Therapeutics Co., Ltd.",2,0,3,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Suzhou HepaThera Biotech Co., Ltd.",2,0,4,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Suzhou Junjing BioSciences Co., Ltd.",2,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Syndax Pharmaceuticals,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,SNDX,1395937,Syndax Pharmaceuticals Inc,exact,https://www.sec.gov/files/company_tickers.json
+"Syntrix Biosystems, Inc.",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+TaiMed Biologics Inc.,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Tectonic Therapeutic,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,TECX,1681087,"Tectonic Therapeutic, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Teligene US,2,0,3,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Terremoto Biosciences Inc.,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+TheiaNova Ltd.,2,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Theratocular Biotek Co.,2,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Theriva Biologics SL,2,0,2,other,ยังไม่ยืนยัน,2026-11-01,TOVX,894158,"Theriva Biologics, Inc.",partial,https://www.sec.gov/files/company_tickers.json
+Thirty Respiratory Limited,2,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Tr1X, Inc.",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+UniQure Biopharma B.V.,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Unlimited Biotechnology LLC,2,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Vaxart,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,VXRT,72444,"Vaxart, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Vector Y Therapeutics,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+VelaVigo Bio Inc,2,0,2,CN|US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Verona Pharma, Inc., a subsidiary of Merck & Co., Inc. (Rahway, New Jersey USA",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Veru Inc.,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,VERU,863894,VERU INC.,exact,https://www.sec.gov/files/company_tickers.json
+Vigonvita Life Sciences,2,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+ViiV Healthcare,2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Virogin Biotech Ltd.,2,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Vividion Therapeutics, Inc.",2,0,2,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"VM Oncology, LLC",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Vogenx, Inc.",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,VOGX,1903784,"Vogenx, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"VSPharmTech Co.,Ltd.",2,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Wave Life Sciences USA, Inc.",2,0,2,US|other,ยังไม่ยืนยัน,2026-11-01,WVE,1631574,"Wave Life Sciences, Inc.",partial,https://www.sec.gov/files/company_tickers.json
+Xenothera SAS,2,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Zenith Epigenetics,2,0,4,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"35Pharma Inc., a GSK company",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"3H (Suzhou) Pharmaceuticals Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"3H Pharmaceuticals Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+60 Degrees Pharmaceuticals LLC,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,SXTP,1946563,"60 DEGREES PHARMACEUTICALS, INC.",exact,https://www.sec.gov/files/company_tickers.json
+"858 Therapeutics, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Aadi Bioscience, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+AbCellera Biologics Inc.,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ABCL,1703057,AbCellera Biologics Inc.,exact,https://www.sec.gov/files/company_tickers.json
+"Abrexa Pharmaceuticals, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Accro Bioscience (Suzhou) Limited,1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Acerand Therapeutics (Shanghai) Limited,1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Acesion Pharma,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Aconcagua Bio, Inc. a wholly owned subsidiary of Structure Therapeutics",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Actio Biosciences, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Acurx Pharmaceuticals Inc.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ACXP,1736243,"Acurx Pharmaceuticals, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Affinia Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Ageless Biotech, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Agiana Pharmaceuticals,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Agomab Spain S.L.U.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+AiCuris Anti-infective Cures AG,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Alesta Therapeutics,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Aligos Therapeutics,1,0,1,US+CN,ยังไม่ยืนยัน,2026-11-01,ALGS,1799448,"Aligos Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Alkeus Pharmaceuticals, Inc.",1,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Allarity Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ALLR,1860657,"Allarity Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Allotera Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"AllRock Bio, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Alpheus Medical, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Alpine Immune Sciences, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Alveus Therapeutics, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Alyssum Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Alzamend Neuro, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ALZN,1677077,"Alzamend Neuro, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Ambrx, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Amivas Inc.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Amorphical Ltd.,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Amplexd Therapeutics, Inc.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Amydis Inc.,1,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Angitia Biopharmaceuticals,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Angitia Biopharmaceuticals Guangzhou Limited,1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Angitia Incorporated Limited,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Apogee Therapeutics, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Appello Pharmaceuticals, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Aqualung Therapeutics Corp.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Arch Biopartners Inc.,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Arcturus Therapeutics, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ARCT,1768224,Arcturus Therapeutics Holdings Inc.,exact,https://www.sec.gov/files/company_tickers.json
+Arditus Pte Ltd,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Aribio Lab Co., Ltd.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"ArQule, Inc., a subsidiary of Merck Sharp & Dohme LLC, a subsidiary of Merck & Co., Inc. (Rahway, NJ USA)",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+ARTHEx Biotech S.L.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Artiva Biotherapeutics, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ARTV,1817241,"Artiva Biotherapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Arvinas Inc.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ARVN,1655759,"ARVINAS, INC.",exact,https://www.sec.gov/files/company_tickers.json
+"Ascentawits Pharmaceuticals, Ltd",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Aspeya, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+ASTEROGENE Biomedical Co. Ltd.,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Atavistik Bio, Inc",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Athos Therapeutics Inc,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Atlas Molecular Pharma,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Atrium Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,RNA,2093101,"Atrium Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Auricula Biosciences Inc.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+AusperBio Therapeutics Inc.,1,0,2,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Autolus Limited,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,AUTL,1730463,Autolus Therapeutics plc,partial,https://www.sec.gov/files/company_tickers.json
+Avalyn Pharma Inc.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,AVLN,1540171,Avalyn Pharma Inc.,exact,https://www.sec.gov/files/company_tickers.json
+"Aveta Biomics, Inc.",1,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+AviadoBio Ltd,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+AVM Biotechnology Inc,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Azitra Inc.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,AZTR,1701478,"Azitra, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Azure Biotech Inc.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Bambusa Therapeutics,1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,BBTX,2044950,"Bambusa Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Basking Biosciences, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Bazelet Nehushtan LtD.,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Beckley Psytech Limited,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+BeiGene,1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Beijing Bio-Targeting Therapeutics Technology Co., Ltd",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Beijing Scitech-Mq Pharmaceuticals Limited,1,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Beijing Tuohua Weiye Biotechnology Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Belief BioMed (Beijing) Co., Ltd",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Bexion Pharmaceuticals, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"BigHat Biosciences, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Binhui Biopharmaceutical Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+BioAegis Therapeutics Inc.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Biocomposites Ltd,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+BIONCaRT GmbH,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Bionic Sight LLC,1,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"BioPhoenix Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+BioRestorative Therapies,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,BRTX,1505497,"BioRestorative Therapies, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Biothervax SpA,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Bivision Pharmaceuticals, Inc.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Black Diamond Therapeutics, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,BDTX,1701541,"Black Diamond Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Bolt Biotherapeutics, Inc.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,BOLT,1641281,"Bolt Biotherapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Bond Biosciences,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+BonusBio Group Ltd,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"BrainChild Bio, Inc",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Brenus Pharma,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"BrYet US, Inc.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Buzzard Pharmaceuticals,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+C Ray Therapeutics,1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Calico Life Sciences LLC,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Callio Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Calluna Pharma AS,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Cancer Vaccines Limited,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Candel Therapeutics, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,CADL,1841387,"Candel Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Canwell Biotech Limited,1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Caravel Oculus Pty Ltd,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Cardurion Pharmaceuticals, Inc.",1,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Carrick Therapeutics Limited,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"CarthroniX, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Cell Energy Life Sciences Group Co. LTD,1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Cellcolabs Clinical LTD.,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"CellSight Technologies, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Cellvax Therapeutics Inc,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Cerenome,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,CNSY,1095981,"CERENOME, INC.",exact,https://www.sec.gov/files/company_tickers.json
+"Chaser Therapeutics, Inc.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Chengdu Origen Biotechnology Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Chengdu SciMount Pharmatech Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Chimeric Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Chongqing Peg-Bio Biopharm Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Chordia Therapeutics, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Chugai Pharmaceutical,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Climb Bio, Inc.",1,0,3,US+CN,ยังไม่ยืนยัน,2026-11-01,CLYM,1768446,"Climb Bio, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Cogent Biosciences, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,COGT,1622229,"Cogent Biosciences, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Complement Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Compugen Ltd,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,CGEN,1119774,COMPUGEN LTD,exact,https://www.sec.gov/files/company_tickers.json
+Connect Biopharm LLC,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Connecta Therapeutics, S.L.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+ConSynance Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Corxel Pharmaceuticals,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"COUR Pharmaceutical Development Company, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+CRISPR Therapeutics AG,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,CRSP,1674416,CRISPR Therapeutics AG,exact,https://www.sec.gov/files/company_tickers.json
+Cumberland Pharmaceuticals,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,CPIX,1087294,CUMBERLAND PHARMACEUTICALS INC,exact,https://www.sec.gov/files/company_tickers.json
+Curasight,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Cyllene Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Cytogel Pharma, LLC",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"CytosinLab Therapeutics Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Daiichi Sankyo Co., Ltd.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Dasher Neuroscience Inc.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Delcath Systems Inc.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,DCTH,872912,"DELCATH SYSTEMS, INC.",exact,https://www.sec.gov/files/company_tickers.json
+Dendrogenix,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Diagonal Therapeutics, Inc.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Diamyd Medical AB,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Dogwood Therapeutics Inc.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,DWTX,1818844,"Dogwood Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Doma Biopharmaceutical（Suzhou）Co., Ltd.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Draig Therapeutics Ltd,1,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Dren Bio,1,0,1,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Edesa Biotech Inc.,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,EDSA,1540159,"Edesa Biotech, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Egle Therapeutics,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+EicOsis Human Health Inc.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+EIR Biotherapies s.r.l.,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Eledon Pharmaceuticals,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ELDN,1404281,"Eledon Pharmaceuticals, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Elevar Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Elion Therapeutics, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Elixiron Immunotherapeutics (Hong Kong) Ltd.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Eloxx Pharmaceuticals, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ELOX,1035354,"Eloxx Pharmaceuticals, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Elpida Therapeutics SPC,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+ENA Respiratory Pty Ltd,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Enanta Pharmaceuticals, Inc",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ENTA,1177648,ENANTA PHARMACEUTICALS INC,exact,https://www.sec.gov/files/company_tickers.json
+Encoded Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Endevica Bio,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Enlivex Therapeutics Ltd.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ENLV,1596812,Enlivex Ltd.,partial,https://www.sec.gov/files/company_tickers.json
+Ensoma,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Enveda Therapeutics,1,0,3,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Epibiotech,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Epicrispr Biotechnologies, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Estrella Immunopharma, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ESLA,1844417,"Estrella Immunopharma, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Eupraxia Pharmaceuticals Inc.,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,EPRX,1581178,EUPRAXIA PHARMACEUTICALS INC.,exact,https://www.sec.gov/files/company_tickers.json
+"Everest Medicines (China) Co.,Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,rejected,manual review: name match was wrong
+Excelsior,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Excyte Biopharma Ltd,1,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Exegi Pharma, LLC",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+EXO Biologics S.A.,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Extend Biosciences Inc.,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+EyeD Pharma,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Fate Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,FATE,1434316,FATE THERAPEUTICS INC,exact,https://www.sec.gov/files/company_tickers.json
+Febico Biomedical Corp.,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Ferrer Internacional S.A.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Fore Biotherapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Foresee Pharmaceuticals Co., Ltd.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Forge Biologics, Inc",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Forte Biosciences, Inc.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Fortvita Biologics (USA)Inc.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Frontier Medicines Corporation,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,rejected,manual review: name match was wrong
+"Fujian Haixi Pharmaceuticals Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Galimedix Therapeutics Inc,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Ganzhou Hemay Pharmaceutical Co., Ltd",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Gateway Institute for Brain Research,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+GE Healthcare,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,rejected,manual review: name match was wrong
+Genfit,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"GeoVax, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,GOVX,832489,"GeoVax Labs, Inc.",partial,https://www.sec.gov/files/company_tickers.json
+Gesynta Pharma AB,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Gracell Biotechnologies (Shanghai) Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Great Novel Therapeutics Biotech & Medicals Corporation,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Guangzhou Bio-gene Technology Co., Ltd",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Gyroscope Therapeutics Limited,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Haihe Biopharma Co., Ltd.",1,0,1,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Hangzhou Converd Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Hangzhou PhecdaMed Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Hansa Biopharma AB,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"HB BioTech, LLC",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+HC Biopharma Inc.,1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Healx Limited,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Heartseed Inc.,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Hebei Senlang Biotechnology Inc., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Heidelberg Pharma AG,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Helsinn Healthcare SA,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+HepaRegeniX GmbH,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Heron Neutron Medical Corp.,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Heronova Pharmaceuticals,1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Hexun Biosciences Co., LTD.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+HighField Biopharmaceuticals Corporation,1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Highlight Therapeutics,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Hillhurst Biopharmaceuticals, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+HitGen Inc.,1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+iCell Gene Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+IDP Discovery Pharma S.L.,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Imbria Pharmaceuticals, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"ImCheck Therapeutics, an Ipsen company",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+ImmuneOncia Therapeutics Inc.,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Impact Therapeutics, Inc.",1,0,1,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Imviva Bio,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Incyte Biosciences International Sàrl,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,INCY,879169,INCYTE CORP,partial,https://www.sec.gov/files/company_tickers.json
+"InduPro, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Ingenia Therapeutics INC,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Inmagene LLC,1,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Innatus Therapeutics (Shanghai) Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Integrative Research Laboratories AB,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Intra-IMMUSG Pte Ltd,1,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"iRegene Therapeutics Co., Ltd.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Isofol Medical AB,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Jaguar Gene Therapy, LLC",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Janssen Pharmaceutica N.V., Belgium",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"jCyte, Inc",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Jubilant Therapeutics Inc.,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Kamau Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Kenai Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Keros Therapeutics, Inc.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,KROS,1664710,"Keros Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Kinaset Therapeutics Inc,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Kither Biotech Srl,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Korro Bio, Inc.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,KRRO,1703647,"Korro Bio, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+KTH Biopharma,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Kymera Therapeutics, Inc.",1,0,3,US,ยังไม่ยืนยัน,2026-11-01,KYMR,1815442,"Kymera Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Kyntra Bio,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,KYNB,921299,"KYNTRA BIO, INC.",exact,https://www.sec.gov/files/company_tickers.json
+Lakewood-Amedex Inc,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,LABT,2079272,Lakewood-Amedex Biotherapeutics Inc.,partial,https://www.sec.gov/files/company_tickers.json
+"Larimar Therapeutics, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,LRMR,1374690,"Larimar Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Lexeo Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,LXEO,1907108,"Lexeo Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Lin BioScience, Inc",1,0,1,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Lingyi Biotech Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Locate Bio Ltd,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Longbio Pharma,1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+LucasBio,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Lukas Biomedical Inc.,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Lumicell, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Lumosa Therapeutics Co., Ltd.",1,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Luxa Biotechnology, LLC",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"LyGenesis, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+MacroGenics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,MGNX,1125345,MACROGENICS INC,exact,https://www.sec.gov/files/company_tickers.json
+Mage Biologics,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"MavriX Bio, LLC",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Maze Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,MAZE,1842295,"Maze Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+McNeil AB,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+MED Institute Inc.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"MedPacto, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Menarini Group,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Mercator MedSystems, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Meribank Biotech Co., Ltd.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Mikrobiomik Healthcare Company S.L.,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+MiNK Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,INKT,1840229,"MiNK Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Minovia Therapeutics Ltd.,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"ML Bio Solutions, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Molecular Partners AG,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,MOLN,1745114,MOLECULAR PARTNERS AG,exact,https://www.sec.gov/files/company_tickers.json
+Molecure S.A.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Morphic Therapeutic, Inc. (A Wholly Owned Subsidiary of Eli Lilly and Company)",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"MSD R&D (China) Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Mundipharma Research Limited,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Myeloid Therapeutics,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"N-Fold, LLC",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Nanjing Jingao biomidical technology Co. Ltd.,1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Nanjing RegeneCore Biotech Co., Ltd.",1,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Napo Therapeutics, S.p.A.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Navigator Medicines, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,rejected,manual review: name match was wrong
+NC Medial Research Inc,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+NEC Bio B.V,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Nefro Avillion Clinical Development, LLC",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"NeuroBiogen Co., Ltd",1,0,2,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Neurocrine Switzerland GmbH,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Neurogene Inc.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,NGNE,1404644,Neurogene Inc.,exact,https://www.sec.gov/files/company_tickers.json
+Neuron23 Inc.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Neurona Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+NeuShen Therapeutics,1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Newish Biotech (Wuxi) Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Newish Technology (Beijing) Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Newleos Therapeutics, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Nexcella Inc.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"NexThera Co., Ltd.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"NGGT (Suzhou) Biotechnology Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Nippon Shinyaku Co., Ltd.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"NKGen Biotech, Inc.",1,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+NMD Pharma A/S,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Nurix Therapeutics, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,NRIX,1549595,"Nurix Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Nutshell Therapeutics (Shanghai) Co., LTD.",1,0,1,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Nuvig Therapeutics, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+NuvOx LLC,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Nyrada Pty Ltd,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"OBI Pharma, Inc",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Ocusun Ophthalmic Pharmaceutical (Guangzhou) Co., Ltd.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Olix Pharmaceuticals, Inc.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Omeros Corporation,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,OMER,1285819,OMEROS CORP,exact,https://www.sec.gov/files/company_tickers.json
+Omnix Medical Ltd,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Onchilles Pharma Inc,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Oncoinvent Solutions AS,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Oncorena AB,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+One-carbon Therapeutics AB,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Oneness Biotech Co., Ltd.",1,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+ONL Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Orca Biosystems, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"OrthoTrophix, Inc",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"OsteoRemedies, LLC",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Otsuka Pharmaceutical Factory, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Ottimo Pharma Limited,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Palisade Bio,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,PALI,1357459,"PALISADE BIO, INC.",exact,https://www.sec.gov/files/company_tickers.json
+"Palvella Therapeutics, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,PVLA,1583648,"PALVELLA THERAPEUTICS, INC.",exact,https://www.sec.gov/files/company_tickers.json
+"Panafina, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Partner Therapeutics, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Pathios Therapeutics Pty Ltd,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Pell Bio-Med Technology Co., Ltd.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Pentixapharm AG,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+PepGen Inc,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,PEPG,1835597,PepGen Inc.,exact,https://www.sec.gov/files/company_tickers.json
+"Perceive Biotherapeutics, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Pluto Inc.,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Precigen, Inc",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,PGEN,1356090,"PRECIGEN, INC.",exact,https://www.sec.gov/files/company_tickers.json
+Precision Biotech Taiwan Corp.,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Prescient Therapeutics, Ltd.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"PRG Science & Technology Co., Ltd.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Prime Medicine, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,PRME,1894562,"Prime Medicine, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Progentos Therapeutics,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Prolium Bioscience, Inc",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Pulmotect, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Pulmovant, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Purespring Therapeutics Limited,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+PYC Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Q Therapeutics, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Qanatpharma AG,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+QBiotics Group Limited,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Qifeng Zhang,1,0,1,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Quell Therapeutics Limited,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Rapport Therapeutics Inc.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,RAPP,2012593,"Rapport Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"RAPT Therapeutics, Inc., a member of the GSK plc group of companies",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Rare Thyroid Therapeutics International AB,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"ReAlta Life Sciences, Inc.",1,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+RECORDATI GROUP,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Red de Terapia Celular,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Rein Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,RNTX,1420565,"Rein Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Reistone Biopharma Company Limited,1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Relmada Therapeutics, Inc.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,RLMD,1553643,"RELMADA THERAPEUTICS, INC.",exact,https://www.sec.gov/files/company_tickers.json
+Remedy,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Remix Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Resolve Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Retension Pharmaceuticals. Inc.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,RTSN,2002988,"Retension Pharmaceuticals, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Reunion Neuroscience Inc,1,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Rhizen Pharmaceuticals SA,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Ribocure Pharmaceuticals AB,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Ribotek Biopharmaceuticals (Shandong) Co., Ltd",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+RiboX Therapeutics Ltd.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+RIGImmune Inc.,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+River 2 Renal Corp.,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+River 3 Renal Corp.,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Rivus Pharmaceuticals, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Rocket Pharmaceuticals Inc.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,RCKT,1281895,"ROCKET PHARMACEUTICALS, INC.",exact,https://www.sec.gov/files/company_tickers.json
+"Rohto Pharmaceutical Co., Ltd.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"RyCarma Therapeutics, Inc.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"S.Biomedics Co., Ltd.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Salubris Biotherapeutics Inc,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Sangamo Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,SGMOQ,1001233,"SANGAMO THERAPEUTICS, INC",exact,https://www.sec.gov/files/company_tickers.json
+Sano Chemicals Inc,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Satellos Bioscience, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,MSLE,1421642,Satellos Bioscience Inc.,exact,https://www.sec.gov/files/company_tickers.json
+Scancell Ltd,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,SCNLD,2141116,Scancell Holdings plc,exact,https://www.sec.gov/files/company_tickers.json
+Seaport Therapeutics,1,0,2,US,ยังไม่ยืนยัน,2026-11-01,SPTX,2042347,"Seaport Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Second Life Therapeutics,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Senju USA, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Sensorion,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Sensory Cloud, Inc.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Seqker Biosciences, Inc.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Serum Life Science Europe GmbH,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Shanghai AB PharmaTech Ltd.,1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Shanghai AbelZeta Ltd.,1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai Allink Biotherapeutics Co., Ltd.",1,0,1,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai Auzone Biological Technology Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai Best-Link Bioscience, LLC",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai Cell Therapy Group Co.,Ltd",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai Euhearing Therapeutics Co., Ltd",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Shanghai Juncell Therapeutics,1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai Novamab Biopharmaceuticals Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai RAAS Blood Products Co., Ltd.",1,0,2,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai SciBrunch Therapeutics Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shanghai Synvida Biotechnology Co.,Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shenzhen Salubris Pharmaceuticals Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Shine-On Biomedical Co., Ltd.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Sinfatin S.L,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+SinoMab BioScience Ltd,1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Sirius Therapeutics Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Sironax USA, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Sitala Bio LTD,1,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Skingenix, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Skylark Bio Inc.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Skyline Therapeutics (US) Inc.,1,0,1,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Smartwise Sweden AB,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+SN BioScience,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Somagenetix AG,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Songqi Gao,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+SOTIO Biotech a.s.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Soufflé Therapeutics, Inc.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Sovargen,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Spago Nanomedical AB,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+SparingVision,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Spark Therapeutics, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Sparrow Pharmaceuticals,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Spectrum Pharmaceuticals, Inc",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Splice Bio,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"SpringWorks Therapeutics, Inc., a healthcare company of Merck KGaA, Darmstadt, Germany",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Starton Therapeutics, Inc",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"STCube, Inc.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Step Pharma, SAS",1,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Stingray Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Sundance Biosciences, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Sunhawk Vision Biotech, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Suzhou Sanegene Bio Inc.,1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+SynAct Pharma Aps,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Syncromune, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Syndeio Biosciences, Inc",1,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"SynDevRx, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Synendos Therapeutics AG,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+T.O.A.D. Oncology SA,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Tanabe Pharma Corporation,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Tangram Therapeutics Plc,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Tarsus Pharmaceuticals, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,TARS,1819790,"Tarsus Pharmaceuticals, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Tasca Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Taysha Gene Therapies, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,TSHA,1806310,"Taysha Gene Therapies, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+TBF Genie Tissulaire,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"TearSolutions, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Technophage, SA",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Tectonic Operating Company, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Tego Science, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Tenaya Therapeutics,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,TNYA,1858848,"Tenaya Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Tern Therapeutics, LLC",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Theolytics Limited,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Theradex,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Theralase® Technologies Inc.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,TLTFF,923883,THERALASE TECHNOLOGIES INC /FI,partial,https://www.sec.gov/files/company_tickers.json
+Theravia,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Throne Biotechnologies Inc.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Tianjin ConjuStar Biologics Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"TICAROS Co., Ltd.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Tioga Pharmaceuticals,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"TiumBio Co., Ltd.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Tiziana Life Sciences LTD,1,0,2,US,ยังไม่ยืนยัน,2026-11-01,TLSA,1723069,Tiziana Life Sciences Ltd,exact,https://www.sec.gov/files/company_tickers.json
+TolerogenixX GmbH,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Toll Biotech Co. Ltd. (Beijing),1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+ToLymph Inc.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Tonix Pharmaceuticals, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,TNXP,1430306,Tonix Pharmaceuticals Holding Corp.,exact,https://www.sec.gov/files/company_tickers.json
+"Trace Neuroscience, Inc.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Transgene,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Translational Sciences, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Traws Pharma, Inc.",1,0,1,other,ยังไม่ยืนยัน,2026-11-01,TRAW,1130598,"Traws Pharma, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Trellis Bioscience LLC,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Triumvira Immunologics, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Triveni Bio,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"TrueBinding, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Turning Point Therapeutics, Inc.",1,0,1,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Ukko Inc,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Upstream Bio Inc.,1,0,2,US,ยังไม่ยืนยัน,2026-11-01,UPB,2022626,"Upstream Bio, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+Vaccinex Inc.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,VCNX,1205922,"VACCINEX, INC.",exact,https://www.sec.gov/files/company_tickers.json
+Vantage Biosciences Ltd,1,0,1,US+CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Vector Vitale LLC,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Veloxis Pharmaceuticals,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Ventus Therapeutics U.S., Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+VeonGen Therapeutics GmbH,1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Vera Therapeutics, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,VERA,1831828,"Vera Therapeutics, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"Viatris Pharmaceuticals Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,VTRS,1792044,Viatris Inc,partial,https://www.sec.gov/files/company_tickers.json
+Vibrant Sciences Limited,1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Vico Therapeutics B. V.,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Vicore Pharma AB,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,VCRE,2124403,Vicore Pharma Holding AB,exact,https://www.sec.gov/files/company_tickers.json
+VIVUS LLC,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+VM Therapeutics LLC,1,0,1,other,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Walden Biosciences,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Windward Bio,1,0,2,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Xadcera Biopharmaceutical (Suzhou) Co., Ltd.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"XellSmart Bio-Pharmaceutical (Suzhou) Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"XellSmart Therapeutics (Shanghai) Co., Ltd.",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Xiaorong Wu,1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Xilio Development, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Xinnate AB,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Xizang Haisco Pharmaceutical Co., Ltd",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Yarrow Bioscience, Inc.",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,YARW,1566044,"Yarrow Bioscience, Inc.",exact,https://www.sec.gov/files/company_tickers.json
+"YolTech Therapeutics Co., Ltd",1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Zhejiang ACEA Pharmaceutical Co. Ltd.,1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Zhejiang Hisun Pharmaceutical Co. Ltd.,1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+"Zhuhai Yufan Biotechnologies Co., Ltd",1,0,1,CN,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Zomagen Biosciences Ltd.,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ยังไม่ยืนยัน,,,,https://www.sec.gov/files/company_tickers.json
+Zura Bio Inc,1,0,1,US,ยังไม่ยืนยัน,2026-11-01,ZURA,1855644,Zura Bio Ltd,exact,https://www.sec.gov/files/company_tickers.json

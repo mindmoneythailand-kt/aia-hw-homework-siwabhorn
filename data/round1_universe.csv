@@ -1,0 +1,46 @@
+﻿market,ticker_or_code,company,sponsors_ctgov,n_tierA_drugs,size_group,G2_basis,name_match,source,retrieved
+US (SEC),AZN,AstraZeneca,AstraZeneca,69,large,runway=- ocf_fy=14575000000 USD,exact,data/shortlist_round1.csv,2026-11-01
+US (SEC),MRK,Merck Sharp & Dohme LLC,Merck Sharp & Dohme LLC,51,large,runway=- ocf_fy=16472000000 USD,manual,data/shortlist_round1.csv,2026-11-01
+US (SEC),PFE,Pfizer,Pfizer,46,large,runway=- ocf_fy=11704000000 USD,exact,data/shortlist_round1.csv,2026-11-01
+US (SEC),NVS,Novartis Pharmaceuticals,Novartis Pharmaceuticals,42,large,runway=- ocf_fy=19144000000 USD,manual,data/shortlist_round1.csv,2026-11-01
+US (SEC),ABBV,AbbVie,AbbVie,35,large,runway=- ocf_fy=19030000000 USD,exact,data/shortlist_round1.csv,2026-11-01
+US (SEC),JNJ,"Janssen Research & Development, LLC","Janssen Research & Development, LLC",35,large,runway=- ocf_fy=24530000000 USD,manual,data/shortlist_round1.csv,2026-11-01
+US (SEC),AMGN,Amgen,Amgen,19,large,runway=- ocf_fy=9958000000 USD,exact,data/shortlist_round1.csv,2026-11-01
+US (SEC),BMY,Bristol-Myers Squibb,Bristol-Myers Squibb,19,large,runway=- ocf_fy=14156000000 USD,exact,data/shortlist_round1.csv,2026-11-01
+US (SEC),GILD,Gilead Sciences,Gilead Sciences,17,large,runway=- ocf_fy=10019000000 USD,exact,data/shortlist_round1.csv,2026-11-01
+US (SEC),ONC,BeOne Medicines,BeOne Medicines,12,large,runway=- ocf_fy=1127580000 USD,exact,data/shortlist_round1.csv,2026-11-01
+US (SEC),LLY,Eli Lilly and Company,Eli Lilly and Company,23,mid,runway=- ocf_fy=16813000000 USD,exact,data/shortlist_round1.csv,2026-11-01
+US (SEC),INCY,Incyte Corporation,Incyte Corporation,10,mid,runway=- ocf_fy=1413498000 USD,exact,data/shortlist_round1.csv,2026-11-01
+US (SEC),JAZZ,Jazz Pharmaceuticals,Jazz Pharmaceuticals,10,mid,runway=- ocf_fy=1355773000 USD,exact,data/shortlist_round1.csv,2026-11-01
+US (SEC),RVMD,"Revolution Medicines, Inc.","Revolution Medicines, Inc.",9,mid,runway=4.39 ocf_fy=-897741000 USD,exact,data/shortlist_round1.csv,2026-11-01
+US (SEC),PRAX,Praxis Precision Medicines,Praxis Precision Medicines,8,mid,runway=5.62 ocf_fy=-249068000 USD,exact,data/shortlist_round1.csv,2026-11-01
+US (SEC),BIIB,Biogen,Biogen,6,mid,runway=- ocf_fy=2204600000 USD,exact,data/shortlist_round1.csv,2026-11-01
+US (SEC),ALKS,"Alkermes, Inc.","Alkermes, Inc.",4,mid,runway=- ocf_fy=520754000 USD,exact,data/shortlist_round1.csv,2026-11-01
+US (SEC),ARGX,argenx,argenx,4,mid,runway=- ocf_fy=685192000 USD,exact,data/shortlist_round1.csv,2026-11-01
+US (SEC),EXEL,Exelixis,Exelixis,4,mid,runway=- ocf_fy=884267000 USD,exact,data/shortlist_round1.csv,2026-11-01
+US (SEC),IMCR,Immunocore Ltd,Immunocore Ltd,4,mid,runway=82.17 ocf_fy=-10712000 USD,exact,data/shortlist_round1.csv,2026-11-01
+US (SEC),AXSM,"Axsome Therapeutics, Inc.","Axsome Therapeutics, Inc.",8,small,runway=3.42 ocf_fy=-93405000 USD,exact,data/shortlist_round1.csv,2026-11-01
+US (SEC),NERV,Minerva Neurosciences,Minerva Neurosciences,4,small,runway=5.57 ocf_fy=-13510936 USD,exact,data/shortlist_round1.csv,2026-11-01
+US (SEC),NBIX,Neurocrine Biosciences,Neurocrine Biosciences,4,small,runway=- ocf_fy=782700000 USD,exact,data/shortlist_round1.csv,2026-11-01
+US (SEC),AMRX,"Amneal Pharmaceuticals, LLC","Amneal Pharmaceuticals, LLC",3,small,runway=- ocf_fy=339992000 USD,exact,data/shortlist_round1.csv,2026-11-01
+US (SEC),ARDX,Ardelyx,Ardelyx,3,small,runway=6.63 ocf_fy=-42483000 USD,exact,data/shortlist_round1.csv,2026-11-01
+US (SEC),MIRM,"Mirum Pharmaceuticals, Inc.","Mirum Pharmaceuticals, Inc.",3,small,runway=- ocf_fy=55827000 USD,exact,data/shortlist_round1.csv,2026-11-01
+US (SEC),BCAX,Bicara Therapeutics,Bicara Therapeutics,2,small,runway=4.65 ocf_fy=-106834000 USD,exact,data/shortlist_round1.csv,2026-11-01
+US (SEC),CMPX,Compass Therapeutics,Compass Therapeutics,2,small,runway=3.66 ocf_fy=-49143000 USD,exact,data/shortlist_round1.csv,2026-11-01
+US (SEC),ERAS,"Erasca, Inc.","Erasca, Inc.",2,small,runway=4.03 ocf_fy=-95455000 USD,exact,data/shortlist_round1.csv,2026-11-01
+US (SEC),LBRX,LB Pharmaceuticals Inc.,LB Pharmaceuticals Inc.,2,small,runway=9.23 ocf_fy=-35208000 USD,exact,data/shortlist_round1.csv,2026-11-01
+HK (HKEX),00013,HUTCHMED,Hutchmed,7,,ผ่าน (runway >= 2 ปี) [US$'000],name_match_reviewed (ยังไม่ยืนยันกับ HKEX),data/financials_hk.csv,2026-11-01
+HK (HKEX),01093,CSPC PHARMA,"CSPC ZhongQi Pharmaceutical Technology Co., Ltd. ;; CSPC Baike (Shandong) Biopharmaceutical Co., Ltd. ;; CSPC Mingfule Pharmaceutical (Guangzhou) Co., Ltd. ;; CSPC Zhongnuo Pharmaceutical (Shijiazhuang) Co., Ltd.",6,,ผ่าน (OCF ปี 2025 > 0) [RMB'000],name_match_reviewed (ยังไม่ยืนยันกับ HKEX),data/financials_hk.csv,2026-11-01
+HK (HKEX),01276,HENGRUI PHARMA,"Jiangsu HengRui Medicine Co., Ltd. ;; Guangdong Hengrui Pharmaceutical Co., Ltd ;; Shanghai Hengrui Pharmaceutical Co., Ltd.",15,,ผ่าน (OCF ปี 2025 > 0) [RMB'000],name_match_reviewed (ยังไม่ยืนยันกับ HKEX),data/financials_hk.csv,2026-11-01
+HK (HKEX),01672,ASCLETIS-B,"Ascletis Pharma (China) Co., Limited",1,,ผ่าน (runway >= 2 ปี) [RMB'000],name_match_reviewed (ยังไม่ยืนยันกับ HKEX),data/financials_hk.csv,2026-11-01
+HK (HKEX),01801,INNOVENT BIO,"Innovent Biologics (Suzhou) Co. Ltd. ;; Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD. ;; Innovent Biologics Technology Limited (Shanghai R&D Center)",16,,ผ่าน (OCF ปี 2025 > 0) [RMB'000],name_match_reviewed (ยังไม่ยืนยันกับ HKEX),data/financials_hk.csv,2026-11-01
+HK (HKEX),02096,SIMCERE PHARMA,"Jiangsu Simcere Pharmaceutical Co., Ltd.",6,,ผ่าน (OCF ปี 2025 > 0) [RMB'000],name_match_reviewed (ยังไม่ยืนยันกับ HKEX),data/financials_hk.csv,2026-11-01
+HK (HKEX),02157,LEPU BIO,"Lepu Biopharma Co., Ltd.",1,,ผ่าน (runway >= 2 ปี) [RMB'000],name_match_reviewed (ยังไม่ยืนยันกับ HKEX),data/financials_hk.csv,2026-11-01
+HK (HKEX),02186,LUYE PHARMA,Luye Pharma Group Ltd.,3,,ผ่าน (OCF ปี 2025 > 0) [RMB'000],name_match_reviewed (ยังไม่ยืนยันกับ HKEX),data/financials_hk.csv,2026-11-01
+HK (HKEX),02595,GENFLEET-B,Genfleet Therapeutics (Shanghai) Inc.,1,,ผ่าน (runway >= 2 ปี) [RMB'000],name_match_reviewed (ยังไม่ยืนยันกับ HKEX),data/financials_hk.csv,2026-11-01
+HK (HKEX),02696,HENLIUS,Shanghai Henlius Biotech,6,,ผ่าน (OCF ปี 2025 > 0) [RMB'000],name_match_reviewed (ยังไม่ยืนยันกับ HKEX),data/financials_hk.csv,2026-11-01
+HK (HKEX),03692,HANSOH PHARMA,Hansoh BioMedical R&D Company,1,,ผ่าน (OCF ปี 2025 > 0) [RMB'000],name_match_reviewed (ยังไม่ยืนยันกับ HKEX),data/financials_hk.csv,2026-11-01
+HK (HKEX),09606,DUALITYBIO-B,DualityBio Inc.,2,,ผ่าน (OCF ปี 2025 > 0) [RMB'000],name_match_reviewed (ยังไม่ยืนยันกับ HKEX),data/financials_hk.csv,2026-11-01
+HK (HKEX),09926,AKESO,Akeso,11,,ผ่าน (runway >= 2 ปี) [RMB'000],name_match_reviewed (ยังไม่ยืนยันกับ HKEX),data/financials_hk.csv,2026-11-01
+HK (HKEX),09966,ALPHAMAB-B,"Suzhou Alphamab Co., Ltd.",1,,ผ่าน (runway >= 2 ปี) [RMB'000],name_match_reviewed (ยังไม่ยืนยันกับ HKEX),data/financials_hk.csv,2026-11-01
+HK (HKEX),09995,REMEGEN,"RemeGen Co., Ltd.",9,,ผ่าน (OCF ปี 2025 > 0) [RMB'000],name_match_reviewed (ยังไม่ยืนยันกับ HKEX),data/financials_hk.csv,2026-11-01

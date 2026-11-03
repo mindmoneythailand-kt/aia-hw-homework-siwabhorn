@@ -1,0 +1,17 @@
+﻿drug,company,check,result,source
+Opevesostat,Merck Sharp & Dohme LLC,DailyMed (US labels),labels=0 ,https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Opevesostat
+HLX22,HENLIUS,DailyMed (US labels),labels=0 ,https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=HLX22
+Volrustomig,AstraZeneca,DailyMed (US labels),labels=0 ,https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Volrustomig
+Maridebart cafraglutide,Amgen,DailyMed (US labels),labels=0 ,https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Maridebart%20cafraglutide
+ASC30 tablets A1,ASCLETIS-B,DailyMed (US labels),labels=0 ,https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=ASC30%20A1
+Elecoglipron,AstraZeneca,DailyMed (US labels),labels=0 ,https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Elecoglipron
+Brenipatide,Eli Lilly and Company,DailyMed (US labels),labels=0 ,https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Brenipatide
+LB-102 (100 mg tablet),LB Pharmaceuticals Inc.,DailyMed (US labels),labels=0 ,https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=LB-102
+NBI-1065845,Neurocrine Biosciences,DailyMed (US labels),labels=0 ,https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=NBI-1065845
+Lutikizumab,AbbVie,DailyMed (US labels),labels=0 ,https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Lutikizumab
+SHR-1819 Injection,HENGRUI PHARMA,DailyMed (US labels),labels=0 ,https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=SHR-1819
+Povorcitinib,Incyte Corporation,DailyMed (US labels),labels=0 ,https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Povorcitinib
+AK112,AKESO,ตัดออก: อนุมัติแล้ว (China (+US BLA filed by partner)),Akeso AR FY2025 p14: ivonescimab has two approved indications in China; p10: BLA submitted by Summit,data/raw/hk/09926/2026-04-29_AR_FY2025.pdf
+SHR-A1811,HENGRUI PHARMA,ตัดออก: อนุมัติแล้ว (China),"Hengrui AR FY2025 p80: NMPA approval, new indication of trastuzumab rezetecan",data/raw/hk/01276/2026-03-26_AR_FY2025.pdf
+KarXT,Bristol-Myers Squibb,ตัดออก: อนุมัติแล้ว (US),DailyMed label COBENFY (xanomeline and trospium chloride),https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=xanomeline
+efgartigimod PH20 SC,argenx,ตัดออก: อนุมัติแล้ว (US),DailyMed labels VYVGART and VYVGART HYTRULO,https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=efgartigimod

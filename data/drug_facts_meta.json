@@ -1,0 +1,10 @@
+{
+  "fetched": "2026-11-01",
+  "companies": 45,
+  "drugs": 78,
+  "errors": 0,
+  "sources": [
+    "https://clinicaltrials.gov/api/v2/studies",
+    "https://api.fda.gov/drug/label.json"
+  ]
+}

@@ -1,0 +1,4 @@
+﻿scenario,price_usd_per_patient_year,patients_needed_for_USD_1bn,pct_of_US_obesity_population_TAM,pct_of_US_severe_obesity_population,implied_zepbound_annualized_patients_at_this_price,formula_note
+net price per patient-year = low,3588,278707,0.256,1.099,5966555,"[คำนวณ] 1,000,000,000 / price; TAM = 269,763,509 x 40.3%; Zepbound annualized = Q3 x 4 (USD 21,408 m), สมมติว่าราคาเท่ากันทั้งหมด"
+net price per patient-year = base,4788,208855,0.192,0.824,4471178,"[คำนวณ] 1,000,000,000 / price; TAM = 269,763,509 x 40.3%; Zepbound annualized = Q3 x 4 (USD 21,408 m), สมมติว่าราคาเท่ากันทั้งหมด"
+net price per patient-year = high,5388,185598,0.171,0.732,3973274,"[คำนวณ] 1,000,000,000 / price; TAM = 269,763,509 x 40.3%; Zepbound annualized = Q3 x 4 (USD 21,408 m), สมมติว่าราคาเท่ากันทั้งหมด"

@@ -1,0 +1,9 @@
+{
+  "fetched": "2026-11-01",
+  "source": "https://download.open.fda.gov/drug/drugsfda/drug-drugsfda-0001-of-0001.json.zip",
+  "fda_records": 29424,
+  "name_tokens": 7838,
+  "rows": 5215,
+  "flag_Y": 1900,
+  "flag_N": 3315
+}
