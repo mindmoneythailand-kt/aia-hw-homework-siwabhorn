@@ -7,7 +7,7 @@
 | **ชื่อเล่น** | [ชื่อเล่น — ใส่เอง] (ชื่อ repo: siwabhorn) |
 | **กลุ่ม** | [เลขกลุ่ม — ใส่เอง] · หุ้นยา/Biotech ที่อาจเป็น blockbuster ตัวต่อไป |
 | **โจทย์ 1 บรรทัด** | คัดบริษัทยา/Biotech สหรัฐและจีนที่มียาระยะ 2-3 ใกล้อนุมัติ แล้วประเมินว่ายอดขายพีคอาจเกิน 1 พันล้านดอลลาร์ได้ไหม ผ่านขนาดตลาด คู่แข่ง และโอกาสอนุมัติ |
-| **ลิงก์ผลงาน** | ดูใน `output/` (`step4_obesity_group.md`, `step4_oncology_group.md`, `step4_neuro_psychiatry_group.md`, `step4_immunology_group.md`) และตารางใน `data/` |
+| **ลิงก์ผลงาน** | **Dashboard: `output/dashboard.html`** (ไฟล์เดียว เปิดด้วยเบราว์เซอร์ ไม่ต้องติดตั้งอะไร; สร้างใหม่ได้ด้วย `python scripts/build_dashboard.py`) · เอกสารรายกลุ่มโรคใน `output/` (`step4_obesity_group.md`, `step4_oncology_group.md`, `step4_neuro_psychiatry_group.md`, `step4_immunology_group.md`) และตารางใน `data/` |
 | **สถานะ** | ร่างแรกครบ 4 กลุ่มโรค (12 ยา) · ข้อมูลตลาดจีนและราคาสุทธิยังไม่ครบ ดูช่อง "ยังไม่ยืนยัน" ในแต่ละเอกสาร |
 
 ---

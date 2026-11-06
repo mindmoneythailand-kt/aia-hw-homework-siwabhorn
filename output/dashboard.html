@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Biotech Blockbuster Screener</title>
+<style>
+:root{
+  --bg:#f7f8fa; --panel:#ffffff; --ink:#1b2430; --mut:#5d6b7c; --line:#dde3ea;
+  --accent:#1f5fbf; --accent-soft:#e6eefb; --bar:#3b78d6; --bar2:#8aa9d9;
+  --warn:#8a5a00; --warn-bg:#fff4dc; --ok:#1d6b46; --ok-bg:#e3f4ea; --no:#8f2a2a; --no-bg:#fbe8e8;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#10151c; --panel:#18202a; --ink:#e6ebf1; --mut:#9aa9bb; --line:#2a3544;
+    --accent:#7fb0ff; --accent-soft:#1d2b44; --bar:#5b93e6; --bar2:#40597f;
+    --warn:#f0c46a; --warn-bg:#3a2f14; --ok:#7fd0a3; --ok-bg:#16301f; --no:#f19a9a; --no-bg:#3a1c1c;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#10151c; --panel:#18202a; --ink:#e6ebf1; --mut:#9aa9bb; --line:#2a3544;
+  --accent:#7fb0ff; --accent-soft:#1d2b44; --bar:#5b93e6; --bar2:#40597f;
+  --warn:#f0c46a; --warn-bg:#3a2f14; --ok:#7fd0a3; --ok-bg:#16301f; --no:#f19a9a; --no-bg:#3a1c1c;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 "Noto Sans Thai","Sarabun",system-ui,-apple-system,"Segoe UI",sans-serif}
+.wrap{max-width:1120px;margin:0 auto;padding:20px 16px 56px}
+header h1{margin:0 0 4px;font-size:1.6rem;line-height:1.25}
+header p{margin:0;color:var(--mut)}
+.top{display:flex;gap:12px;justify-content:space-between;align-items:flex-start;flex-wrap:wrap}
+button,select{font:inherit;color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:6px 10px}
+button{cursor:pointer}
+button:focus-visible,select:focus-visible,th[tabindex]:focus-visible,tr[tabindex]:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.notice{margin:14px 0 0;padding:10px 14px;border-radius:10px;background:var(--warn-bg);color:var(--warn);font-size:.92rem}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:18px 0 6px}
+.tile{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px 14px}
+.tile b{display:block;font-size:1.7rem;line-height:1.1}
+.tile span{color:var(--mut);font-size:.88rem}
+section{margin-top:30px}
+h2{font-size:1.2rem;margin:0 0 4px}
+.sub{margin:0 0 12px;color:var(--mut);font-size:.92rem}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px}
+.bars{display:grid;gap:8px}
+.bar-row{display:grid;grid-template-columns:minmax(120px,1.4fr) 3fr minmax(60px,auto);gap:10px;align-items:center;font-size:.92rem}
+.bar-row .lab{overflow-wrap:anywhere}
+.track{background:var(--accent-soft);border-radius:6px;height:14px;overflow:hidden}
+.fill{height:100%;background:var(--bar);border-radius:6px;width:var(--w)}
+.fill.alt{background:var(--bar2)}
+.num{font-variant-numeric:tabular-nums;text-align:right;white-space:nowrap}
+.filters{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;align-items:center}
+.filters label{color:var(--mut);font-size:.9rem}
+.tw{overflow-x:auto;border:1px solid var(--line);border-radius:12px;background:var(--panel)}
+table{border-collapse:collapse;width:100%;min-width:860px;font-size:.92rem}
+th,td{padding:9px 10px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+th{position:sticky;top:0;background:var(--accent-soft);cursor:pointer;white-space:nowrap;user-select:none}
+th[aria-sort="ascending"]::after{content:" ▲"} th[aria-sort="descending"]::after{content:" ▼"}
+td.n{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+tbody tr.row{cursor:pointer}
+tbody tr.row:hover{background:var(--accent-soft)}
+tr.detail td{background:var(--bg);padding:12px 14px}
+.tag{display:inline-block;padding:1px 8px;border-radius:999px;font-size:.78rem;border:1px solid var(--line);white-space:nowrap}
+.tag.ok{background:var(--ok-bg);color:var(--ok);border-color:transparent}
+.tag.no{background:var(--no-bg);color:var(--no);border-color:transparent}
+.tag.warn{background:var(--warn-bg);color:var(--warn);border-color:transparent}
+.detail dl{display:grid;grid-template-columns:max-content 1fr;gap:4px 14px;margin:0}
+.detail dt{color:var(--mut)} .detail dd{margin:0;overflow-wrap:anywhere}
+a{color:var(--accent)}
+ul.clean{margin:0;padding-left:20px}
+ul.clean li{margin:3px 0}
+table.small{min-width:0;font-size:.9rem;table-layout:auto}
+table.small th{white-space:normal;position:static;cursor:default}
+table.small td,table.small th{padding:6px 6px}
+.card{min-width:0}
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:14px}
+footer{margin-top:36px;color:var(--mut);font-size:.85rem}
+@media (max-width:560px){
+  .bar-row{grid-template-columns:1fr;gap:4px}
+  .bar-row .num{text-align:left}
+  header h1{font-size:1.35rem}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div class="top">
+    <div>
+      <h1>Biotech Blockbuster Screener · สหรัฐ + จีน</h1>
+      <p>คัดยาระยะ 2-3 ที่อาจมียอดขายพีค &gt; 1,000 ล้านดอลลาร์ · การบ้าน AI Investor Alpha</p>
+      <p id="asof"></p>
+    </div>
+    <button id="theme" type="button" aria-label="สลับโหมดสว่าง/มืด">สลับโหมดสี</button>
+  </div>
+  <p class="notice"><strong>งานศึกษาเพื่อการเรียนรู้ ไม่ใช่คำแนะนำซื้อขาย</strong> · ตัวเลขทุกตัวมีที่มาในไฟล์ <code>data/</code> และ <code>output/step4_*.md</code> · ที่หาไม่ได้เขียนว่า "ยังไม่ยืนยัน" · โอกาสผ่านอนุมัติคือค่าเฉลี่ยกลุ่มโรคในอดีต ไม่ใช่โอกาสของยาแต่ละตัว</p>
+</header>
+
+<div class="tiles" id="tiles" aria-label="สรุปตัวเลขหลัก"></div>
+
+<section aria-labelledby="h-funnel">
+  <h2 id="h-funnel">1 · กรองจากกี่ตัว เหลือกี่ตัว</h2>
+  <p class="sub">แถบแสดงสัดส่วนแบบลอการิทึม (เพื่อให้เห็นขั้นที่เล็กมาก) · ตัวเลขจริงอยู่ด้านขวา</p>
+  <div class="card"><div class="bars" id="funnel"></div></div>
+</section>
+
+<section aria-labelledby="h-drugs">
+  <h2 id="h-drugs">2 · ยา 12 ตัวที่ลงลึก</h2>
+  <p class="sub">กดหัวคอลัมน์เพื่อเรียง · กดแถวเพื่อดูที่มาและข้อจำกัด · กฎคัดเลือกว่าด้วยความครอบคลุมและความพร้อมของข้อมูล <strong>ไม่ใช่การจัดอันดับว่าตัวไหนมีโอกาสสูงสุด</strong></p>
+  <div class="filters">
+    <label for="fArea">กลุ่มโรค</label><select id="fArea"></select>
+    <label for="fMkt">ตลาด</label><select id="fMkt"></select>
+    <span id="count" class="sub" role="status"></span>
+  </div>
+  <div class="tw"><table id="tbl"><thead></thead><tbody></tbody></table></div>
+</section>
+
+<section aria-labelledby="h-bench">
+  <h2 id="h-bench">3 · เส้น 1,000 ล้านดอลลาร์ เทียบกับยาที่ขายอยู่</h2>
+  <p class="sub">ถามกลับว่า "$1 พันล้านเท่ากับกี่ % ของยอดขายยาตัวเทียบ (คิดเป็นรายปี)" แทนการเดาส่วนแบ่งตลาด · ยอดขายรายปี = ไตรมาสล่าสุด × 4 (ภาพประกอบ ไม่ใช่การพยากรณ์)</p>
+  <div class="grid2">
+    <div class="card"><div class="bars" id="bench"></div></div>
+    <div class="card">
+      <strong>กลุ่มอ้วน: ต้องมีผู้ป่วยเท่าไรถึง $1 พันล้าน (สหรัฐอย่างเดียว)</strong>
+      <table class="small"><thead><tr><th>ราคา/ผู้ป่วย/ปี</th><th>ผู้ป่วยที่ต้องใช้ยา</th><th>% ของผู้ป่วยโรคอ้วนสหรัฐ</th></tr></thead><tbody id="sizing"></tbody></table>
+      <p class="sub">ผู้ป่วยโรคอ้วนสหรัฐ ≈ 108.7 ล้านคน [คำนวณ: 269.76 ล้านผู้ใหญ่ × 40.3%, CDC] · ราคาเป็นราคาจ่ายเงินสดจากแหล่งรอง ไม่ใช่ราคาสุทธิที่บริษัทรับ</p>
+    </div>
+  </div>
+</section>
+
+<section aria-labelledby="h-pos">
+  <h2 id="h-pos">4 · โอกาสผ่านอนุมัติ (อัตราที่ตีพิมพ์)</h2>
+  <p class="sub">ยาที่อยู่ระยะ 3: ระยะ 3→ยื่นขอ × ยื่นขอ→อนุมัติ · BIO/Informa/QLS (ก.พ. 2021, ข้อมูลปี 2011-2020), Figure 2 · เป็นค่าเฉลี่ยกลุ่มโรค ไม่ปรับตามผลทดลองของยาแต่ละตัว</p>
+  <div class="card"><div class="bars" id="pos"></div></div>
+</section>
+
+<section aria-labelledby="h-gaps">
+  <h2 id="h-gaps">5 · ยังไม่ยืนยัน และยาที่ตัดออก</h2>
+  <div class="grid2">
+    <div class="card"><strong>ช่องว่างของข้อมูล</strong><ul class="clean" id="gaps"></ul></div>
+    <div class="card"><strong>ตัดออกเพราะตรวจแล้วว่าอนุมัติแล้ว</strong><ul class="clean" id="excl"></ul></div>
+  </div>
+</section>
+
+<section aria-labelledby="h-src">
+  <h2 id="h-src">6 · แหล่งข้อมูลหลัก</h2>
+  <div class="card"><ul class="clean" id="src"></ul></div>
+</section>
+
+<footer>
+  สร้างโดย <code>scripts/build_dashboard.py</code> จากไฟล์ใน <code>data/</code> · รันซ้ำได้ · ไม่มีไลบรารีภายนอก ไม่ส่งข้อมูลออกจากเครื่อง
+</footer>
+</div>
+
+<script>
+const DATA = {"generated": "2026-11-06", "funnel": [["การทดลองระยะ 2-3 ของบริษัทยา ที่ยังดำเนินอยู่ (ClinicalTrials.gov)", 4056, "data/screen_meta.json"], ["แถว บริษัท × ยา (เฉพาะยาในแขนทดลอง)", 5215, "data/candidates.csv"], ["บริษัทผู้ให้ทุน", 1460, "data/candidate_sponsors.csv"], ["…ที่มียาระยะ 3 (ประเมินประตู G1-G3)", 608, "data/gate_round1.csv"], ["…ผ่านทั้ง 3 ประตู (ฝั่ง SEC)", 87, "data/gate_round1.csv"], ["รายชื่อรอบแรก: SEC 30 + HK 15", 45, "data/round1_universe.csv"], ["ยาหลัก (ไม่เกิน 2 ตัวต่อบริษัท)", 78, "data/drug_facts_round1.csv"], ["ยาที่ลงลึกขั้น 4 (4 กลุ่มโรค × 3)", 12, "data/deepdive_12.csv"]], "drugs": [{"area": "Oncology", "area_th": "มะเร็ง", "rule": "R1 ใหญ่สุดในกลุ่ม", "market": "US (SEC)", "ticker": "MRK", "company": "Merck Sharp & Dohme LLC", "drug": "Opevesostat", "conditions": "Metastatic Castration-resistant Prostate Cancer (mCRPC); Prostatic Neoplasms; Prostate Cancer Metastatic", "n_p3": 2, "enrollment": 2624, "competition": 13, "dailymed": "0", "approval_note": "ยังไม่ได้ตรวจตลาดนอกสหรัฐ", "ct_source": "https://clinicaltrials.gov/study/NCT06136650", "stage": "ระยะ 3", "pos_pct": 43.9, "pos_basis": "Oncology ระยะ 3→ยื่นขอ 47.7% × ยื่นขอ→อนุมัติ 92.0%", "evidence": "ยังไม่พบผลทดลองที่เผยแพร่จากการค้นหารอบนี้", "evidence_src": "-"}, {"area": "Oncology", "area_th": "มะเร็ง", "rule": "R2 ใหญ่สุดจากบริษัทจีน/HK", "market": "HK (HKEX)", "ticker": "02696", "company": "HENLIUS", "drug": "HLX22", "conditions": "Gastroesophageal-junction Cancer; Monoclonal Antibody; Gastric Cancer; HER2-positive Gastric Cancer; HER2 + Breast Cancer", "n_p3": 2, "enrollment": 1256, "competition": 9, "dailymed": "0", "approval_note": "ยังไม่ได้ตรวจ NMPA/ตลาดอื่น", "ct_source": "https://clinicaltrials.gov/study/NCT06532006", "stage": "ระยะ 3", "pos_pct": 43.9, "pos_basis": "Oncology ระยะ 3→ยื่นขอ 47.7% × ยื่นขอ→อนุมัติ 92.0%", "evidence": "ยังไม่พบผลทดลองที่เผยแพร่จากการค้นหารอบนี้", "evidence_src": "-"}, {"area": "Oncology", "area_th": "มะเร็ง", "rule": "R3 ถัดไป คนละบริษัท", "market": "US (SEC)", "ticker": "AZN", "company": "AstraZeneca", "drug": "Volrustomig", "conditions": "Unresectable Pleural Mesothelioma; Locally Advanced Cervical Cancer", "n_p3": 2, "enrollment": 1663, "competition": 1, "dailymed": "0", "approval_note": "ยังไม่ได้ตรวจตลาดนอกสหรัฐ", "ct_source": "https://clinicaltrials.gov/study/NCT06097728", "stage": "ระยะ 3", "pos_pct": 43.9, "pos_basis": "Oncology ระยะ 3→ยื่นขอ 47.7% × ยื่นขอ→อนุมัติ 92.0%", "evidence": "ยังไม่พบผลทดลองที่เผยแพร่จากการค้นหารอบนี้", "evidence_src": "-"}, {"area": "Obesity / diabetes / metabolic", "area_th": "อ้วน/เบาหวาน", "rule": "R1 ใหญ่สุดในกลุ่ม", "market": "US (SEC)", "ticker": "AMGN", "company": "Amgen", "drug": "Maridebart cafraglutide", "conditions": "Obesity Disease; Obstructive Sleep Apnea; Atherosclerotic Cardiovascular Disease; Overweight; Obesity; Heart Failure With Preserved Ejection Fraction; Heart Failure With Mildly Reduced Ejection Fracti", "n_p3": 10, "enrollment": 28043, "competition": 92, "dailymed": "0", "approval_note": "ยังไม่ได้ตรวจตลาดนอกสหรัฐ", "ct_source": "https://clinicaltrials.gov/study/NCT06987695", "stage": "ระยะ 3", "pos_pct": 55.7, "pos_basis": "Metabolic ระยะ 3→ยื่นขอ 63.6% × ยื่นขอ→อนุมัติ 87.5%", "evidence": "ระยะ 2: น้ำหนักลด 12.3–16.2% ที่ 52 สัปดาห์ (ตามที่ได้รับยา) ฉีดเดือนละครั้ง", "evidence_src": "แหล่งรอง (รายงานข่าวอ้าง Amgen/NEJM)"}, {"area": "Obesity / diabetes / metabolic", "area_th": "อ้วน/เบาหวาน", "rule": "R2 ใหญ่สุดจากบริษัทจีน/HK", "market": "HK (HKEX)", "ticker": "01672", "company": "ASCLETIS-B", "drug": "ASC30 tablets A1", "conditions": "Obesity; Overweight; Chronic Weight Management; Type 2 Diabetes Mellitus", "n_p3": 2, "enrollment": 4563, "competition": 97, "dailymed": "0", "approval_note": "ยังไม่ได้ตรวจ NMPA/ตลาดอื่น", "ct_source": "https://clinicaltrials.gov/study/NCT07743463", "stage": "ระยะ 3", "pos_pct": 55.7, "pos_basis": "Metabolic ระยะ 3→ยื่นขอ 63.6% × ยื่นขอ→อนุมัติ 87.5%", "evidence": "ระยะ 2 (13 สัปดาห์): ลดสุทธิเทียบยาหลอก 5.4–7.7% ที่ 20–60 มก. (n=125)", "evidence_src": "รายงานประจำปี Ascletis 2025 หน้า 9 (คำกล่าวบริษัท)"}, {"area": "Obesity / diabetes / metabolic", "area_th": "อ้วน/เบาหวาน", "rule": "R3 ถัดไป คนละบริษัท", "market": "US (SEC)", "ticker": "AZN", "company": "AstraZeneca", "drug": "Elecoglipron", "conditions": "Type 2 Diabetes Mellitus; Type 2 Diabetes With Chronic Kidney Disease; Weight Management; Obesity; Overweight", "n_p3": 7, "enrollment": 10351, "competition": 60, "dailymed": "0", "approval_note": "ยังไม่ได้ตรวจตลาดนอกสหรัฐ", "ct_source": "https://clinicaltrials.gov/study/NCT07664553", "stage": "ระยะ 3", "pos_pct": 55.7, "pos_basis": "Metabolic ระยะ 3→ยื่นขอ 63.6% × ยื่นขอ→อนุมัติ 87.5%", "evidence": "ระยะ 2: น้ำหนักลด ≈10.5% ที่ 26 สัปดาห์ (75 มก.) เทียบยาหลอก 0.6%", "evidence_src": "แหล่งรอง (รายงานข่าวอ้าง AZ/Lancet)"}, {"area": "Neurology / psychiatry", "area_th": "ประสาท/จิตเวช", "rule": "R1 ใหญ่สุดในกลุ่ม", "market": "US (SEC)", "ticker": "LLY", "company": "Eli Lilly and Company", "drug": "Brenipatide", "conditions": "Alcohol Use Disorder; Depressive Disorder, Major", "n_p3": 4, "enrollment": 4200, "competition": 2, "dailymed": "0", "approval_note": "ยังไม่ได้ตรวจตลาดนอกสหรัฐ", "ct_source": "https://clinicaltrials.gov/study/NCT07219953", "stage": "ระยะ 3", "pos_pct": 51.3, "pos_basis": "Psychiatry ระยะ 3→ยื่นขอ 56.3% × ยื่นขอ→อนุมัติ 91.2%", "evidence": "ยังไม่พบผลทดลองที่เผยแพร่จากการค้นหารอบนี้", "evidence_src": "-"}, {"area": "Neurology / psychiatry", "area_th": "ประสาท/จิตเวช", "rule": "R3 ถัดไป คนละบริษัท", "market": "US (SEC)", "ticker": "LBRX", "company": "LB Pharmaceuticals Inc.", "drug": "LB-102", "conditions": "Schizophrenia", "n_p3": 2, "enrollment": 1356, "competition": 14, "dailymed": "0", "approval_note": "ยังไม่ได้ตรวจตลาดนอกสหรัฐ", "ct_source": "https://clinicaltrials.gov/study/NCT07369154", "stage": "ระยะ 3", "pos_pct": 51.3, "pos_basis": "Psychiatry ระยะ 3→ยื่นขอ 56.3% × ยื่นขอ→อนุมัติ 91.2%", "evidence": "ยังไม่พบผลทดลองที่เผยแพร่จากการค้นหารอบนี้", "evidence_src": "-"}, {"area": "Neurology / psychiatry", "area_th": "ประสาท/จิตเวช", "rule": "R3 ถัดไป คนละบริษัท", "market": "US (SEC)", "ticker": "NBIX", "company": "Neurocrine Biosciences", "drug": "NBI-1065845", "conditions": "Major Depressive Disorder", "n_p3": 4, "enrollment": 1150, "competition": 17, "dailymed": "0", "approval_note": "ยังไม่ได้ตรวจตลาดนอกสหรัฐ", "ct_source": "https://clinicaltrials.gov/study/NCT07196501", "stage": "ระยะ 3", "pos_pct": 51.3, "pos_basis": "Psychiatry ระยะ 3→ยื่นขอ 56.3% × ยื่นขอ→อนุมัติ 91.2%", "evidence": "ยังไม่พบผลทดลองที่เผยแพร่จากการค้นหารอบนี้", "evidence_src": "-"}, {"area": "Immunology / inflammation", "area_th": "ภูมิคุ้มกัน/อักเสบ", "rule": "R1 ใหญ่สุดในกลุ่ม", "market": "US (SEC)", "ticker": "ABBV", "company": "AbbVie", "drug": "Lutikizumab", "conditions": "Hidradenitis Suppurativa", "n_p3": 1, "enrollment": 1400, "competition": 10, "dailymed": "0", "approval_note": "ยังไม่ได้ตรวจตลาดนอกสหรัฐ", "ct_source": "https://clinicaltrials.gov/study/NCT06468228", "stage": "ระยะ 3", "pos_pct": 61.4, "pos_basis": "Autoimmune ระยะ 3→ยื่นขอ 65.3% × ยื่นขอ→อนุมัติ 94.1%", "evidence": "ยังไม่พบผลทดลองที่เผยแพร่จากการค้นหารอบนี้", "evidence_src": "-"}, {"area": "Immunology / inflammation", "area_th": "ภูมิคุ้มกัน/อักเสบ", "rule": "R2 ใหญ่สุดจากบริษัทจีน/HK", "market": "HK (HKEX)", "ticker": "01276", "company": "HENGRUI PHARMA", "drug": "SHR-1819 Injection", "conditions": "Seasonal Allergic Rhinitis; Adolescents With Moderate-to-severe Atopic Dermatitis; Prurigo Nodularis", "n_p3": 3, "enrollment": 844, "competition": 3, "dailymed": "0", "approval_note": "ยังไม่ได้ตรวจ NMPA/ตลาดอื่น", "ct_source": "https://clinicaltrials.gov/study/NCT07688772", "stage": "ระยะ 3", "pos_pct": 61.4, "pos_basis": "Autoimmune ระยะ 3→ยื่นขอ 65.3% × ยื่นขอ→อนุมัติ 94.1%", "evidence": "ยังไม่พบผลทดลองที่เผยแพร่จากการค้นหารอบนี้", "evidence_src": "-"}, {"area": "Immunology / inflammation", "area_th": "ภูมิคุ้มกัน/อักเสบ", "rule": "R3 ถัดไป คนละบริษัท", "market": "US (SEC)", "ticker": "INCY", "company": "Incyte Corporation", "drug": "Povorcitinib", "conditions": "Hidradenitis Suppurativa (HS)", "n_p3": 2, "enrollment": 1217, "competition": 7, "dailymed": "0", "approval_note": "ยังไม่ได้ตรวจตลาดนอกสหรัฐ", "ct_source": "https://clinicaltrials.gov/study/NCT06212999", "stage": "ขออนุมัติแล้ว (FDA รับ NDA ไตรมาส 1 ปี 2026 ตามรายงานบริษัท)", "pos_pct": 94.1, "pos_basis": "Autoimmune ยื่นขอ→อนุมัติ 94.1%", "evidence": "ระยะ 3 ผ่านเป้าหมายหลัก HiSCR50 สัปดาห์ 12: ยา 40–42% เทียบยาหลอก 29–30%", "evidence_src": "บทความ Nature Medicine ก.ค. 2026 · NDA: ตามรายงานบริษัทผ่านผลค้นหา"}], "pos": [{"area": "Oncology", "area_th": "มะเร็ง", "bio_group": "Oncology", "p3_to_nda": 47.7, "nda_to_approval": 92.0, "p3_to_approval": 43.9}, {"area": "Obesity / diabetes / metabolic", "area_th": "อ้วน/เบาหวาน", "bio_group": "Metabolic", "p3_to_nda": 63.6, "nda_to_approval": 87.5, "p3_to_approval": 55.7}, {"area": "Neurology / psychiatry", "area_th": "ประสาท/จิตเวช", "bio_group": "Psychiatry", "p3_to_nda": 56.3, "nda_to_approval": 91.2, "p3_to_approval": 51.3}, {"area": "Immunology / inflammation", "area_th": "ภูมิคุ้มกัน/อักเสบ", "bio_group": "Autoimmune", "p3_to_nda": 65.3, "nda_to_approval": 94.1, "p3_to_approval": 61.4}], "bench": [{"area": "Obesity / diabetes / metabolic", "area_th": "อ้วน/เบาหวาน", "name": "Zepbound", "annual_usd_m": 21408, "basis": "ไตรมาส 3 ปี 2026 × 4", "src": "Eli Lilly 8-K ไตรมาส 3 ปี 2026", "kind": "pct", "value": 4.67}, {"area": "Oncology", "area_th": "มะเร็ง", "name": "KEYTRUDA (รวม Qlex)", "annual_usd_m": 34404, "basis": "ไตรมาส 3 ปี 2026 × 4", "src": "Merck 8-K ไตรมาส 3 ปี 2026", "kind": "pct", "value": 2.91}, {"area": "Immunology / inflammation", "area_th": "ภูมิคุ้มกัน/อักเสบ", "name": "Dupixent", "annual_usd_m": 26162, "basis": "ไตรมาส 3 ปี 2026 × 4", "src": "Regeneron 8-K ไตรมาส 3 ปี 2026", "kind": "pct", "value": 3.82}, {"area": "Neurology / psychiatry", "area_th": "ประสาท/จิตเวช", "name": "Cobenfy", "annual_usd_m": 252, "basis": "ไตรมาส 2 ปี 2026 × 4", "src": "ผลค้นหาสรุปผลประกอบการ BMS (แหล่งรอง)", "kind": "mult", "value": 3.97}], "excluded": [{"drug": "AK112", "why": "ตัดออก: อนุมัติแล้ว (China (+US BLA filed by partner))", "result": "Akeso AR FY2025 p14: ivonescimab has two approved indications in China; p10: BLA submitted by Summit"}, {"drug": "SHR-A1811", "why": "ตัดออก: อนุมัติแล้ว (China)", "result": "Hengrui AR FY2025 p80: NMPA approval, new indication of trastuzumab rezetecan"}, {"drug": "KarXT", "why": "ตัดออก: อนุมัติแล้ว (US)", "result": "DailyMed label COBENFY (xanomeline and trospium chloride)"}, {"drug": "efgartigimod PH20 SC", "why": "ตัดออก: อนุมัติแล้ว (US)", "result": "DailyMed labels VYVGART and VYVGART HYTRULO"}], "gaps": ["ตลาดจีนทั้งหมด: ความชุกโรค ราคาหลังเข้าบัญชียาแห่งชาติ (NRDL) สถานะ NMPA", "ราคาสุทธิต่อผู้ป่วย (ใช้ได้เฉพาะกลุ่มอ้วน จากราคาจ่ายเงินสดแหล่งรอง)", "สัดส่วนผู้ป่วยที่เข้าเกณฑ์ของยามะเร็งและภูมิคุ้มกัน → ย้อนคำนวณจำนวนผู้ป่วยไม่ได้", "สิทธิบัตรและวันหมดสิทธิ์ผูกขาดของทั้ง 12 ยา", "ผลระยะ 2 ต้นฉบับของยาอ้วน (ใช้รายงานข่าว) · ผลระยะ 3 ของ Volrustomig (ฉบับปอด) และ SHR-1819", "ตัวเลข Cobenfy และ Bimzelx มาจากแหล่งรอง ยังไม่ได้เปิดเอกสารต้นทาง"], "sources": [["ClinicalTrials.gov API v2", "https://clinicaltrials.gov/data-api/api"], ["SEC EDGAR / data.sec.gov", "https://www.sec.gov/edgar"], ["HKEXnews", "https://www.hkexnews.hk"], ["openFDA / DailyMed (US labels)", "https://dailymed.nlm.nih.gov"], ["BIO/Informa/QLS: Clinical Development Success Rates 2011-2020", "https://go.bio.org/rs/490-EHZ-999/images/ClinicalDevelopmentSuccessRates2011_2020.pdf"], ["CDC NCHS Data Brief 508 (US obesity)", "https://www.cdc.gov/nchs/products/databriefs/db508.htm"], ["NIMH: major depression statistics", "https://www.nimh.nih.gov/health/statistics/major-depression"], ["Eli Lilly 8-K Q3 2026", "https://www.sec.gov/Archives/edgar/data/0000059478/000005947826000104/q326lillysalesandearningsp.htm"], ["Merck 8-K Q3 2026", "https://www.sec.gov/Archives/edgar/data/0000310158/000110465926119825/tm2628203d1_ex99-2.htm"], ["Regeneron 8-K Q3 2026 (Dupixent)", "https://www.sec.gov/Archives/edgar/data/0000872589/000087258926000032/exhibit991q32026.htm"], ["Povorcitinib STOP-HS1/2, Nature Medicine 2026", "https://www.nature.com/articles/s41591-026-04534-z"]], "sizing": [{"scenario": "net price per patient-year = low", "price_usd_per_patient_year": "3588", "patients_needed_for_USD_1bn": "278707", "pct_of_US_obesity_population_TAM": "0.256"}, {"scenario": "net price per patient-year = base", "price_usd_per_patient_year": "4788", "patients_needed_for_USD_1bn": "208855", "pct_of_US_obesity_population_TAM": "0.192"}, {"scenario": "net price per patient-year = high", "price_usd_per_patient_year": "5388", "patients_needed_for_USD_1bn": "185598", "pct_of_US_obesity_population_TAM": "0.171"}]};
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const fmt = (n) => (n === null || n === undefined || n === "") ? "ยังไม่ยืนยัน" : Number(n).toLocaleString("en-US");
+
+$("asof").textContent = "ข้อมูล ณ " + DATA.generated + " · ฐานข้อมูลสาธารณะเท่านั้น";
+
+/* theme toggle (stored per viewer only; page works without storage) */
+(function(){
+  let t = null; try { t = localStorage.getItem("theme"); } catch(e){}
+  if (t) document.documentElement.setAttribute("data-theme", t);
+  $("theme").addEventListener("click", () => {
+    const dark = getComputedStyle(document.documentElement).getPropertyValue("--bg").trim() === "#10151c";
+    const next = dark ? "light" : "dark";
+    document.documentElement.setAttribute("data-theme", next);
+    try { localStorage.setItem("theme", next); } catch(e){}
+  });
+})();
+
+/* tiles */
+$("tiles").innerHTML = [
+  [DATA.drugs.length, "ยาที่ลงลึก"], [4, "กลุ่มโรค"], [DATA.funnel[5][1], "บริษัทในรายชื่อรอบแรก"],
+  [new Set(DATA.drugs.map(d => d.market)).size + " ตลาด", "สหรัฐ (SEC) · ฮ่องกง (HKEX)"],
+].map(([v, l]) => `<div class="tile"><b>${esc(v)}</b><span>${esc(l)}</span></div>`).join("");
+
+/* funnel (log scale) */
+(function(){
+  const max = Math.max(...DATA.funnel.map(f => f[1]));
+  $("funnel").innerHTML = DATA.funnel.map((f, i) => {
+    const w = Math.max(3, Math.round(100 * Math.log10(f[1] + 1) / Math.log10(max + 1)));
+    return `<div class="bar-row"><div class="lab">${esc(f[0])}<br><small style="color:var(--mut)">${esc(f[2])}</small></div>
+      <div class="track" aria-hidden="true"><div class="fill${i === DATA.funnel.length - 1 ? "" : " alt"}" style="--w:${w}%"></div></div>
+      <div class="num"><strong>${fmt(f[1])}</strong></div></div>`;
+  }).join("");
+})();
+
+/* drug table */
+const cols = [
+  ["area_th", "กลุ่มโรค"], ["drug", "ยา"], ["company", "บริษัท"], ["market", "ตลาด"],
+  ["n_p3", "ทดลองระยะ 3", true], ["enrollment", "ผู้เข้าร่วม", true], ["competition", "คู่แข่งระยะ 3 ในโรคเดียวกัน", true],
+  ["pos_pct", "ผ่านอนุมัติเฉลี่ยกลุ่ม %", true], ["dailymed", "ฉลากสหรัฐ"],
+];
+let sortKey = null, sortDir = 1;
+const fArea = $("fArea"), fMkt = $("fMkt");
+fArea.innerHTML = `<option value="">ทั้งหมด</option>` + [...new Set(DATA.drugs.map(d => d.area_th))].map(a => `<option>${esc(a)}</option>`).join("");
+fMkt.innerHTML = `<option value="">ทั้งหมด</option>` + [...new Set(DATA.drugs.map(d => d.market))].map(a => `<option>${esc(a)}</option>`).join("");
+$("tbl").tHead.innerHTML = "<tr>" + cols.map(([k, l]) => `<th data-k="${k}" tabindex="0" role="columnheader" aria-sort="none">${esc(l)}</th>`).join("") + "</tr>";
+
+function labelTag(d){
+  const n = Number(d.dailymed);
+  if (d.stage.startsWith("ขออนุมัติ")) return `<span class="tag warn">ขออนุมัติแล้ว</span>`;
+  return n > 0 ? `<span class="tag no">มีฉลากแล้ว</span>` : `<span class="tag">ไม่พบฉลาก*</span>`;
+}
+function renderTable(){
+  let rows = DATA.drugs.filter(d => (!fArea.value || d.area_th === fArea.value) && (!fMkt.value || d.market === fMkt.value));
+  if (sortKey) rows = [...rows].sort((a, b) => {
+    const x = a[sortKey], y = b[sortKey];
+    return (typeof x === "number" && typeof y === "number" ? x - y : String(x).localeCompare(String(y), "th")) * sortDir;
+  });
+  const tb = $("tbl").tBodies[0]; tb.innerHTML = "";
+  rows.forEach((d, i) => {
+    const tr = document.createElement("tr"); tr.className = "row"; tr.tabIndex = 0; tr.setAttribute("aria-expanded", "false");
+    tr.innerHTML = `<td>${esc(d.area_th)}</td><td><strong>${esc(d.drug)}</strong><br><small style="color:var(--mut)">${esc(d.stage)}</small></td>
+      <td>${esc(d.company)}<br><small style="color:var(--mut)">${esc(d.ticker)}</small></td><td>${esc(d.market)}</td>
+      <td class="n">${fmt(d.n_p3)}</td><td class="n">${fmt(d.enrollment)}</td><td class="n">${fmt(d.competition)}</td>
+      <td class="n">${d.pos_pct}</td><td>${labelTag(d)}</td>`;
+    const det = document.createElement("tr"); det.className = "detail"; det.hidden = true;
+    det.innerHTML = `<td colspan="${cols.length}"><dl>
+      <dt>โรคที่ทดลอง</dt><dd>${esc(d.conditions)}</dd>
+      <dt>ผลทดลองที่พบ</dt><dd>${esc(d.evidence)} <small>(${esc(d.evidence_src)})</small></dd>
+      <dt>โอกาสผ่านอนุมัติ</dt><dd>${esc(d.pos_pct)}% [คำนวณ: ${esc(d.pos_basis)}] · ค่าเฉลี่ยกลุ่มโรค ไม่ใช่โอกาสของยาตัวนี้</dd>
+      <dt>วิธีคัดเข้า</dt><dd>${esc(d.rule)} (ไม่ใช่การจัดอันดับ)</dd>
+      <dt>ตรวจอนุมัติ</dt><dd>DailyMed พบฉลาก ${esc(d.dailymed)} รายการ · ${esc(d.approval_note)}</dd>
+      <dt>ที่มา</dt><dd><a href="${esc(d.ct_source)}" target="_blank" rel="noopener">ทะเบียนการทดลอง (ClinicalTrials.gov)</a></dd>
+    </dl></td>`;
+    const toggle = () => { det.hidden = !det.hidden; tr.setAttribute("aria-expanded", String(!det.hidden)); };
+    tr.addEventListener("click", toggle);
+    tr.addEventListener("keydown", (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); toggle(); } });
+    tb.append(tr, det);
+  });
+  $("count").textContent = `แสดง ${rows.length} จาก ${DATA.drugs.length} ยา · *"ไม่พบฉลาก" ไม่พิสูจน์ว่ายังไม่อนุมัติ (ฐานข้อมูลตกยาบางตัว) · จำนวนการทดลองและผู้เข้าร่วมในตารางนับเฉพาะฉบับที่ยังดำเนินอยู่และคาดว่าเสร็จ พ.ย. 2026–ธ.ค. 2028 จึงอาจน้อยกว่ารวมทุกฉบับในเอกสาร step4_*.md (เช่น Povorcitinib 8 ฉบับ 4,056 คน)`;
+}
+$("tbl").tHead.addEventListener("click", (e) => {
+  const th = e.target.closest("th"); if (!th) return;
+  const k = th.dataset.k; sortDir = (sortKey === k) ? -sortDir : 1; sortKey = k;
+  [...th.parentNode.children].forEach(c => c.setAttribute("aria-sort", "none"));
+  th.setAttribute("aria-sort", sortDir === 1 ? "ascending" : "descending"); renderTable();
+});
+$("tbl").tHead.addEventListener("keydown", (e) => { if (e.key === "Enter") e.target.click(); });
+fArea.addEventListener("change", renderTable); fMkt.addEventListener("change", renderTable);
+renderTable();
+
+/* benchmark bars */
+(function(){
+  const pct = DATA.bench.filter(b => b.kind === "pct");
+  const max = Math.max(...pct.map(b => b.value));
+  let html = pct.map(b => `<div class="bar-row"><div class="lab">${esc(b.area_th)} · ${esc(b.name)}<br><small style="color:var(--mut)">ยอดรายปี ≈ ${fmt(b.annual_usd_m)} ล้านดอลลาร์ (${esc(b.basis)}) · ${esc(b.src)}</small></div>
+    <div class="track" aria-hidden="true"><div class="fill" style="--w:${Math.round(100 * b.value / max)}%"></div></div><div class="num"><strong>${b.value}%</strong></div></div>`).join("");
+  DATA.bench.filter(b => b.kind === "mult").forEach(b => {
+    html += `<div class="bar-row"><div class="lab">${esc(b.area_th)} · ${esc(b.name)}<br><small style="color:var(--mut)">ยอดรายปี ≈ ${fmt(b.annual_usd_m)} ล้านดอลลาร์ (${esc(b.basis)}) · ${esc(b.src)}</small></div>
+    <div class="track" aria-hidden="true"><div class="fill alt" style="--w:100%"></div></div><div class="num"><strong>≈ ${b.value} เท่า</strong></div></div>`;
+  });
+  $("bench").innerHTML = html + `<p class="sub">$1 พันล้านเป็นกี่ % ของยาตัวเทียบ · ยาจิตเภทตัวใหม่ (Cobenfy) ยอดต่ำ เส้น $1 พันล้านจึงเป็นกี่เท่าของยอดปัจจุบัน ไม่ใช่ %</p>`;
+  $("sizing").innerHTML = DATA.sizing.map(s => `<tr><td>$${fmt(s.price_usd_per_patient_year)}</td><td class="n">${fmt(s.patients_needed_for_USD_1bn)}</td><td class="n">${esc(s.pct_of_US_obesity_population_TAM)}%</td></tr>`).join("");
+})();
+
+/* PoS bars */
+(function(){
+  $("pos").innerHTML = DATA.pos.map(p => `<div class="bar-row"><div class="lab">${esc(p.area_th)}<br><small style="color:var(--mut)">กลุ่ม BIO: ${esc(p.bio_group)} · ${p.p3_to_nda}% × ${p.nda_to_approval}%</small></div>
+    <div class="track" aria-hidden="true"><div class="fill" style="--w:${p.p3_to_approval}%"></div></div><div class="num"><strong>${p.p3_to_approval}%</strong></div></div>`).join("") +
+    `<div class="bar-row"><div class="lab">Povorcitinib (ขั้นยื่นขอแล้ว)<br><small style="color:var(--mut)">Autoimmune ยื่นขอ→อนุมัติ</small></div><div class="track" aria-hidden="true"><div class="fill alt" style="--w:94.1%"></div></div><div class="num"><strong>94.1%</strong></div></div>`;
+})();
+
+$("gaps").innerHTML = DATA.gaps.map(g => `<li>${esc(g)}</li>`).join("");
+$("excl").innerHTML = DATA.excluded.map(e => `<li><strong>${esc(e.drug)}</strong> — ${esc(e.result)}</li>`).join("");
+$("src").innerHTML = DATA.sources.map(s => `<li><a href="${esc(s[1])}" target="_blank" rel="noopener">${esc(s[0])}</a></li>`).join("");
+</script>
+</body>
+</html>
